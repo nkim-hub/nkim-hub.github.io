@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analytics | Halloway &amp; Brisk LLP</title>
+    <meta name="description" content="Caseload analytics for Halloway & Brisk LLP and California civil court filing trends from the Judicial Council of California." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%231b2f55'/%3E%3Ctext x='32' y='43' font-family='Georgia,serif' font-size='30' font-weight='700' fill='%23c9a54a' text-anchor='middle'%3EH%3C/text%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a href="index.html" class="brand" aria-label="Halloway &amp; Brisk LLP home">
+          <span class="brand-mark" aria-hidden="true">H&amp;B</span>
+          <span class="brand-text"><strong>Halloway</strong><small>&amp; Brisk LLP</small></span>
+        </a>
+        <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+          <span></span><span></span><span></span>
+        </button>
+        <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="aboutus.html">About Us</a>
+          <a href="managecases.html">Manage Cases</a>
+          <a href="analytics.html" aria-current="page">Analytics</a>
+          <a href="tel:+14155550148" class="nav-phone">(415) 555-0148</a>
+          <a href="index.html#contact" class="btn btn-primary nav-cta">Book a Consultation</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="page-hero">
+        <img src="images/analytics-golden-gate.jpg" alt="" width="1600" height="533" fetchpriority="high" />
+        <div class="container">
+          <p class="eyebrow">Analytics</p>
+          <h1>Caseload and court trends</h1>
+          <p class="lead">
+            How our matters are spread across practice areas and attorneys, and how civil filings in California courts
+            have changed over ten years.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="firm-title">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Our caseload</p>
+            <h2 id="firm-title">Firm matters at a glance</h2>
+            <p>
+              A three-year synthetic case archive, modeled on how a small San Francisco civil practice works, combined
+              with the live cases on the <a class="text-link" href="managecases.html">Manage Cases</a> page. Add, edit,
+              or delete a case there and these charts update.
+            </p>
+          </div>
+
+          <div class="viz-filters" role="group" aria-label="Filters for the firm charts">
+            <div class="field">
+              <label for="attorneyFilter">Attorney</label>
+              <select id="attorneyFilter"></select>
+            </div>
+            <div class="field">
+              <span class="field-label" id="rangeLabel">Time range</span>
+              <div class="seg" role="radiogroup" aria-labelledby="rangeLabel" id="rangeFilter">
+                <button type="button" role="radio" aria-checked="false" data-value="12">12 months</button>
+                <button type="button" role="radio" aria-checked="false" data-value="24">24 months</button>
+                <button type="button" role="radio" aria-checked="true" data-value="36">3 years</button>
+              </div>
+            </div>
+            <p class="viz-scope" id="scopeNote" aria-live="polite">&nbsp;</p>
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi"><p>New matters</p><strong id="kpiNew">–</strong><p id="kpiNewSub">&nbsp;</p><svg class="spark" id="sparkNew" aria-hidden="true"></svg></div>
+            <div class="kpi"><p>Open cases today</p><strong id="kpiOpen">–</strong><p id="kpiOpenSub">&nbsp;</p><svg class="spark" id="sparkOpen" aria-hidden="true"></svg></div>
+            <div class="kpi"><p>Median days to resolve</p><strong id="kpiDays">–</strong><p id="kpiDaysSub">&nbsp;</p><svg class="spark" id="sparkDays" aria-hidden="true"></svg></div>
+            <div class="kpi"><p>Fees earned</p><strong id="kpiFees">–</strong><p id="kpiFeesSub">&nbsp;</p><svg class="spark" id="sparkFees" aria-hidden="true"></svg></div>
+          </div>
+
+          <div class="chart-grid">
+            <figure class="chart-card wide">
+              <h3>New matters per month</h3>
+              <p class="chart-sub">Stacked by practice area. Select an area in the legend to show or hide it.</p>
+              <div class="legend-chips" id="intakeLegend"></div>
+              <div class="chart-box" id="intakeChart" tabindex="0" role="img" aria-label="Stacked area chart of new matters per month by practice area. Use the left and right arrow keys to read each month."></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="intakeTable"></div></details>
+            </figure>
+
+            <figure class="chart-card wide">
+              <h3>Where matters come from, and how they end</h3>
+              <p class="chart-sub">How clients found us, the practice area they needed, and the outcome. Band width is the number of matters; hover a band to trace it.</p>
+              <div class="scroll-x"><div class="chart-box tall" id="flowChart" role="img" aria-label="Flow diagram from referral source to practice area to outcome"></div></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="flowTable"></div></details>
+            </figure>
+
+            <figure class="chart-card wide">
+              <h3>How long matters take to resolve</h3>
+              <p class="chart-sub">Each dot is one matter resolved in the period; bigger dots earned higher fees. The dark tick marks the median.</p>
+              <div class="chart-box tall" id="swarmChart" role="img" aria-label="Beeswarm chart of days from opening to resolution for each resolved matter, grouped by practice area"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="swarmTable"></div></details>
+            </figure>
+
+            <figure class="chart-card">
+              <h3>Seasonal rhythm of new work</h3>
+              <p class="chart-sub">Intake by calendar month against the area's average month (100), smoothed over three months</p>
+              <div class="chart-box" id="seasonChart" role="img" aria-label="Heatmap of intake by calendar month and practice area, relative to each area's average month"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="seasonTable"></div></details>
+            </figure>
+
+            <figure class="chart-card">
+              <h3>Open caseload by attorney</h3>
+              <p class="chart-sub" id="workloadSub">Every open case today, by stage</p>
+              <div class="legend-chips static" id="workloadLegend"></div>
+              <div class="chart-box" id="workloadChart" role="img" aria-label="Stacked bar chart of open cases per attorney by stage"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="workloadTable"></div></details>
+            </figure>
+
+            <figure class="chart-card wide">
+              <h3>Fees earned per quarter</h3>
+              <p class="chart-sub">Recorded when a matter resolves. Injury fees are a contingent share of the client's recovery, so they arrive in large, uneven amounts.</p>
+              <div class="legend-chips static" id="feesLegend"></div>
+              <div class="chart-box" id="feesChart" role="img" aria-label="Stacked column chart of fees earned per quarter by practice area"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="feesTable"></div></details>
+            </figure>
+          </div>
+
+          <p class="source-note">
+            The archive is synthetic. Intake volumes, seasonality, time to resolution, settlement rates, and fee levels
+            follow typical patterns for small California civil firms; clients and amounts are invented. Live cases marked
+            settled or closed on Manage Cases have no resolution date, so they are left out of the resolution and fee charts.
+          </p>
+        </div>
+      </section>
+
+      <section class="section alt-section" aria-labelledby="court-title">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">California courts</p>
+            <h2 id="court-title">Civil filings in California superior courts</h2>
+            <p>
+              Real statewide data for unlimited civil cases, which are claims over $25,000. Most of our litigation falls
+              in this category.
+            </p>
+          </div>
+
+          <div class="insights">
+            <div>
+              <strong>+48%</strong>
+              <p>Growth in unlimited civil filings from FY 2015–16 (201,721) to FY 2024–25 (299,534).</p>
+            </div>
+            <div>
+              <strong>2.6×</strong>
+              <p>Rise in non-vehicle injury, property damage, and wrongful death filings in three years, from 22,495 (FY 2021–22) to 59,077 (FY 2024–25).</p>
+            </div>
+            <div>
+              <strong>65%</strong>
+              <p>Share of general unlimited civil cases resolved within 12 months in FY 2024–25, up from a low of 60% in FY 2022–23 but below 71% in FY 2019–20.</p>
+            </div>
+          </div>
+
+          <div class="chart-grid">
+            <figure class="chart-card wide">
+              <div class="card-head">
+                <div>
+                  <h3>Unlimited civil filings by case type</h3>
+                  <p class="chart-sub" id="filingsSub">Statewide filings, fiscal years 2015–16 to 2024–25</p>
+                </div>
+                <div class="seg" role="radiogroup" aria-label="Filings view" id="filingsView">
+                  <button type="button" role="radio" aria-checked="true" data-value="count">Filings</button>
+                  <button type="button" role="radio" aria-checked="false" data-value="index">Growth since 2015–16</button>
+                </div>
+              </div>
+              <div class="legend-chips static" id="filingsLegend"></div>
+              <div class="chart-box" id="filingsChart" role="img" aria-label="Chart of California unlimited civil filings by case type, fiscal years 2015–16 to 2024–25"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="filingsTable"></div></details>
+            </figure>
+            <figure class="chart-card wide">
+              <h3>How quickly civil cases are resolved</h3>
+              <p class="chart-sub">Share of general unlimited civil cases resolved within 12 and 24 months of filing</p>
+              <div class="legend-chips static" id="speedLegend"></div>
+              <div class="chart-box" id="speedChart" role="img" aria-label="Line chart of the share of civil cases resolved within 12 and 24 months, fiscal years 2015–16 to 2024–25"></div>
+              <details><summary>View data table</summary><div class="table-wrap" id="speedTable"></div></details>
+            </figure>
+          </div>
+
+          <p class="source-note">
+            Source: Judicial Council of California,
+            <a class="text-link" href="https://courts.ca.gov/system/files/file/csr_2026.pdf">2026 Court Statistics Report: Statewide Caseload Trends 2015–16 Through 2024–25</a>,
+            Appendix F (data for figures 3–22). Small claims appeals (2,207 filings in FY 2024–25) are left out of the case-type chart but included in totals.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <a href="index.html" class="brand">
+            <span class="brand-mark" aria-hidden="true">H&amp;B</span>
+            <span class="brand-text"><strong>Halloway</strong><small>&amp; Brisk LLP</small></span>
+          </a>
+          <p>Business, real estate, injury, estate, and employment law for San Francisco since 2008.</p>
+        </div>
+        <div>
+          <h2 class="footer-title">Visit</h2>
+          <address>1450 Market Street, Suite 500<br />San Francisco, CA 94102<br />Mon–Fri, 9am–5pm</address>
+        </div>
+        <div>
+          <h2 class="footer-title">Contact</h2>
+          <div class="footer-links">
+            <a class="phone" href="tel:+14155550148">(415) 555-0148</a>
+            <a href="mailto:hello@hallowaybrisk.example">hello@hallowaybrisk.example</a>
+          </div>
+        </div>
+        <div>
+          <h2 class="footer-title">Pages</h2>
+          <nav class="footer-links" aria-label="Footer">
+            <a href="index.html">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="managecases.html">Manage Cases</a>
+            <a href="analytics.html">Analytics</a>
+          </nav>
+        </div>
+      </div>
+      <div class="container footer-legal">
+        <p>
+          Attorney advertising. This website provides general information, not legal advice. Contacting us does not
+          create an attorney–client relationship.
+        </p>
+        <p>
+          © <span class="js-year">2026</span> Halloway &amp; Brisk LLP. Halloway &amp; Brisk is a fictional firm
+          created for a student project; people, cases, and contact details are invented.
+          <a href="aboutus.html#developer">About this website</a>
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js" defer></script>
+    <script src="js/main.js" defer></script>
+    <script src="js/data.js" defer></script>
+    <script src="js/case-history.js" defer></script>
+    <script src="js/analytics.js" defer></script>
+  </body>
+</html>
