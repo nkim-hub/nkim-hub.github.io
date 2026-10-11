@@ -1,0 +1,1370 @@
+id,practice_area,attorney_id,attorney_name,status,opened,resolved,days_to_resolve,outcome,referral_source,fees_usd,litigated
+HB-22-036,Employment Counsel,PR,Priya Raman,Settled,2022-05-13,2024-03-18,675,Settled,Online search,46700,yes
+HB-22-037,Personal Injury,KL,Kevin Liu,Settled,2022-05-16,2023-11-02,535,Settled,Online search,9600,no
+HB-22-072,Personal Injury,SO,Samuel Oyelaran,Settled,2022-06-22,2025-01-25,948,Settled,Client referral,14300,yes
+HB-22-092,Personal Injury,PR,Priya Raman,Settled,2022-07-21,2024-06-28,708,Settled,Client referral,25500,yes
+HB-22-093,Personal Injury,PR,Priya Raman,Settled,2022-07-21,2024-05-04,653,Settled,Professional referral,20700,yes
+HB-22-094,Real Estate,DB,Daniel Brisk,Settled,2022-07-22,2023-11-20,486,Settled,Professional referral,35900,yes
+HB-22-095,Personal Injury,PR,Priya Raman,Settled,2022-07-22,2024-03-08,595,Settled,Client referral,18600,yes
+HB-22-099,Personal Injury,PR,Priya Raman,Settled,2022-07-26,2024-06-12,687,Settled,Client referral,26300,yes
+HB-22-102,Personal Injury,PR,Priya Raman,Settled,2022-07-28,2024-05-09,651,Settled,Online search,19800,yes
+HB-22-114,Personal Injury,PR,Priya Raman,Settled,2022-08-15,2024-09-28,775,Settled,Online search,20400,yes
+HB-22-132,Personal Injury,KL,Kevin Liu,Settled,2022-09-12,2023-10-31,414,Settled,Professional referral,1600,no
+HB-22-135,Personal Injury,KL,Kevin Liu,Settled,2022-09-14,2024-08-20,706,Settled,Client referral,26200,yes
+HB-22-139,Personal Injury,PR,Priya Raman,Settled,2022-09-20,2024-04-24,582,Settled,Online search,56700,yes
+HB-22-144,Personal Injury,PR,Priya Raman,Settled,2022-09-23,2025-02-12,873,Settled,Online search,8700,yes
+HB-22-146,Employment Counsel,SO,Samuel Oyelaran,Settled,2022-09-23,2023-10-25,397,Settled,Online search,49300,yes
+HB-22-154,Personal Injury,KL,Kevin Liu,Settled,2022-10-04,2024-06-26,631,Settled,Online search,27800,yes
+HB-22-162,Business Law,MH,Melissa Halloway,Settled,2022-10-17,2023-12-06,415,Settled,Returning client,14000,yes
+HB-22-165,Estate Planning,DB,Daniel Brisk,Closed,2022-10-19,2024-02-12,481,Completed,Professional referral,10900,no
+HB-22-167,Business Law,MH,Melissa Halloway,Settled,2022-10-24,2024-03-11,504,Settled,Client referral,10300,yes
+HB-22-171,Personal Injury,PR,Priya Raman,Settled,2022-10-28,2023-12-18,416,Settled,Returning client,23800,no
+HB-22-173,Personal Injury,PR,Priya Raman,Settled,2022-10-31,2025-01-15,807,Settled,Professional referral,7800,yes
+HB-22-175,Personal Injury,KL,Kevin Liu,Settled,2022-11-02,2024-04-29,544,Settled,Professional referral,17400,yes
+HB-22-187,Estate Planning,EV,Elena Vásquez,Closed,2022-11-15,2024-01-02,413,Completed,Professional referral,7500,no
+HB-22-191,Personal Injury,PR,Priya Raman,Settled,2022-11-17,2024-03-11,480,Settled,Returning client,10000,no
+HB-22-196,Personal Injury,PR,Priya Raman,Settled,2022-11-24,2024-01-14,416,Settled,Online search,17200,no
+HB-22-205,Personal Injury,PR,Priya Raman,Settled,2022-12-02,2024-04-26,511,Settled,Online search,59300,yes
+HB-22-222,Estate Planning,EV,Elena Vásquez,Closed,2022-12-28,2024-04-14,473,Completed,Returning client,15900,no
+HB-22-226,Business Law,MH,Melissa Halloway,Settled,2022-12-30,2025-10-23,1028,Settled,Professional referral,17200,yes
+HB-23-008,Estate Planning,EV,Elena Vásquez,Closed,2023-01-10,2024-01-28,383,Completed,Client referral,8500,no
+HB-23-012,Personal Injury,PR,Priya Raman,Settled,2023-01-12,2025-07-09,909,Settled,Online search,47500,yes
+HB-23-014,Real Estate,MH,Melissa Halloway,Settled,2023-01-13,2024-07-02,536,Settled,Returning client,28900,yes
+HB-23-017,Personal Injury,PR,Priya Raman,Settled,2023-01-16,2024-01-16,365,Settled,Online search,1600,no
+HB-23-020,Personal Injury,PR,Priya Raman,Settled,2023-01-18,2024-03-05,412,Settled,Online search,22000,yes
+HB-23-021,Estate Planning,EV,Elena Vásquez,Closed,2023-01-18,2024-09-10,601,Completed,Professional referral,9800,no
+HB-23-023,Personal Injury,PR,Priya Raman,Settled,2023-01-23,2024-05-03,466,Settled,Online search,30100,no
+HB-23-028,Estate Planning,EV,Elena Vásquez,Closed,2023-01-24,2024-07-21,544,Completed,Online search,9000,no
+HB-23-029,Personal Injury,PR,Priya Raman,Settled,2023-01-25,2024-03-19,419,Settled,Professional referral,11400,no
+HB-23-032,Business Law,MH,Melissa Halloway,Settled,2023-01-26,2023-10-06,253,Settled,Returning client,40100,yes
+HB-23-033,Business Law,MH,Melissa Halloway,Settled,2023-01-30,2023-11-12,286,Settled,Client referral,26200,yes
+HB-23-035,Business Law,MH,Melissa Halloway,Settled,2023-01-31,2024-03-02,396,Settled,Returning client,18000,yes
+HB-23-036,Business Law,MH,Melissa Halloway,Settled,2023-01-31,2023-12-18,321,Settled,Client referral,19900,yes
+HB-23-044,Business Law,MH,Melissa Halloway,Settled,2023-02-09,2023-11-16,280,Settled,Returning client,13700,yes
+HB-23-046,Personal Injury,PR,Priya Raman,Settled,2023-02-09,2024-01-28,353,Settled,Professional referral,9300,no
+HB-23-047,Personal Injury,PR,Priya Raman,Settled,2023-02-10,2023-10-18,250,Settled,Professional referral,32600,no
+HB-23-051,Personal Injury,PR,Priya Raman,Settled,2023-02-15,2023-11-17,275,Settled,Client referral,20100,no
+HB-23-055,Estate Planning,DB,Daniel Brisk,Closed,2023-02-17,2023-12-17,303,Completed,Returning client,8000,no
+HB-23-056,Estate Planning,EV,Elena Vásquez,Closed,2023-02-20,2023-10-01,223,Completed,Returning client,3100,no
+HB-23-058,Estate Planning,EV,Elena Vásquez,Closed,2023-02-21,2024-03-23,396,Completed,Online search,8500,no
+HB-23-063,Personal Injury,PR,Priya Raman,Settled,2023-02-24,2026-05-20,1181,Settled,Professional referral,59900,yes
+HB-23-070,Estate Planning,EV,Elena Vásquez,Closed,2023-03-01,2023-11-18,262,Completed,Returning client,4500,no
+HB-23-073,Personal Injury,PR,Priya Raman,Settled,2023-03-06,2023-11-15,254,Settled,Professional referral,17400,no
+HB-23-075,Personal Injury,KL,Kevin Liu,Settled,2023-03-10,2024-07-02,480,Settled,Client referral,31300,yes
+HB-23-076,Personal Injury,PR,Priya Raman,Settled,2023-03-13,2024-05-08,422,Settled,Client referral,54900,no
+HB-23-077,Personal Injury,PR,Priya Raman,Settled,2023-03-15,2024-11-02,598,Settled,Online search,26200,yes
+HB-23-080,Estate Planning,EV,Elena Vásquez,Closed,2023-03-17,2024-12-13,637,Completed,Online search,9600,no
+HB-23-085,Business Law,MH,Melissa Halloway,Settled,2023-03-27,2023-10-17,204,Settled,Professional referral,67300,yes
+HB-23-090,Personal Injury,KL,Kevin Liu,Settled,2023-03-29,2023-12-15,261,Settled,Professional referral,20300,no
+HB-23-095,Business Law,MH,Melissa Halloway,Settled,2023-04-04,2023-11-25,235,Settled,Returning client,40900,yes
+HB-23-096,Real Estate,MH,Melissa Halloway,Settled,2023-04-04,2023-12-02,242,Settled,Client referral,21600,yes
+HB-23-098,Personal Injury,KL,Kevin Liu,Settled,2023-04-05,2024-01-01,271,Settled,Online search,34800,no
+HB-23-099,Personal Injury,KL,Kevin Liu,Settled,2023-04-06,2024-08-16,498,Settled,Online search,43700,yes
+HB-23-102,Business Law,KL,Kevin Liu,Settled,2023-04-12,2024-02-04,298,Settled,Online search,23900,yes
+HB-23-106,Business Law,MH,Melissa Halloway,Settled,2023-04-17,2023-10-19,185,Settled,Professional referral,18500,yes
+HB-23-110,Business Law,MH,Melissa Halloway,Settled,2023-04-19,2024-09-24,524,Settled,Professional referral,32200,yes
+HB-23-111,Personal Injury,PR,Priya Raman,Settled,2023-04-19,2024-02-06,293,Settled,Returning client,10600,no
+HB-23-112,Personal Injury,KL,Kevin Liu,Settled,2023-04-20,2023-11-30,224,Settled,Online search,14800,no
+HB-23-113,Business Law,KL,Kevin Liu,Settled,2023-04-21,2023-10-14,176,Settled,Client referral,25700,yes
+HB-23-115,Personal Injury,PR,Priya Raman,Settled,2023-04-21,2025-12-26,980,Settled,Returning client,30400,yes
+HB-23-116,Personal Injury,PR,Priya Raman,Settled,2023-04-21,2024-09-14,512,Settled,Client referral,14200,yes
+HB-23-119,Business Law,MH,Melissa Halloway,Closed,2023-04-26,2023-10-12,169,Dismissed or withdrawn,Professional referral,28200,yes
+HB-23-120,Personal Injury,PR,Priya Raman,Closed,2023-04-27,2023-10-01,157,Dismissed or withdrawn,Client referral,0,no
+HB-23-125,Personal Injury,SO,Samuel Oyelaran,Settled,2023-05-01,2024-04-20,355,Settled,Client referral,11200,no
+HB-23-128,Business Law,MH,Melissa Halloway,Closed,2023-05-04,2023-11-29,209,Completed,Client referral,4300,no
+HB-23-130,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-05-04,2024-04-02,334,Settled,Returning client,49900,yes
+HB-23-136,Personal Injury,PR,Priya Raman,Settled,2023-05-10,2025-06-03,755,Settled,Professional referral,9200,yes
+HB-23-137,Estate Planning,EV,Elena Vásquez,Closed,2023-05-10,2024-02-06,272,Completed,Client referral,7300,no
+HB-23-139,Personal Injury,PR,Priya Raman,Settled,2023-05-15,2024-06-25,407,Settled,Professional referral,41100,no
+HB-23-143,Personal Injury,PR,Priya Raman,Settled,2023-05-22,2025-06-05,745,Settled,Client referral,20100,yes
+HB-23-146,Real Estate,MH,Melissa Halloway,Closed,2023-05-30,2023-11-04,158,Dismissed or withdrawn,Online search,7200,yes
+HB-23-147,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-05-30,2024-07-24,421,Settled,Online search,72600,yes
+HB-23-148,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-05-31,2024-09-27,485,Trial verdict,Online search,30600,yes
+HB-23-152,Real Estate,DB,Daniel Brisk,Settled,2023-06-06,2024-04-12,311,Settled,Professional referral,19900,yes
+HB-23-156,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-06-09,2024-06-26,383,Settled,Returning client,18800,yes
+HB-23-157,Personal Injury,PR,Priya Raman,Settled,2023-06-12,2023-12-30,201,Settled,Returning client,9400,no
+HB-23-160,Estate Planning,EV,Elena Vásquez,Closed,2023-06-15,2024-11-07,511,Completed,Client referral,6200,no
+HB-23-161,Business Law,MH,Melissa Halloway,Settled,2023-06-16,2024-02-14,243,Settled,Returning client,26000,yes
+HB-23-165,Personal Injury,PR,Priya Raman,Settled,2023-06-20,2025-03-28,647,Settled,Online search,9000,yes
+HB-23-167,Real Estate,DB,Daniel Brisk,Settled,2023-06-26,2023-11-13,140,Settled,Online search,12600,yes
+HB-23-169,Personal Injury,PR,Priya Raman,Settled,2023-06-29,2024-11-28,518,Settled,Online search,10400,yes
+HB-23-170,Personal Injury,KL,Kevin Liu,Settled,2023-06-29,2024-09-26,455,Settled,Professional referral,47100,no
+HB-23-171,Personal Injury,SO,Samuel Oyelaran,Settled,2023-06-30,2024-02-17,232,Settled,Client referral,9400,no
+HB-23-172,Personal Injury,PR,Priya Raman,Settled,2023-07-03,2024-01-04,185,Settled,Professional referral,28200,no
+HB-23-175,Personal Injury,PR,Priya Raman,Settled,2023-07-06,2025-09-05,792,Settled,Professional referral,26000,yes
+HB-23-176,Estate Planning,EV,Elena Vásquez,Closed,2023-07-06,2024-04-06,275,Completed,Online search,18100,no
+HB-23-178,Estate Planning,EV,Elena Vásquez,Closed,2023-07-10,2024-09-22,440,Completed,Professional referral,5900,no
+HB-23-182,Personal Injury,PR,Priya Raman,Settled,2023-07-12,2024-09-21,437,Settled,Client referral,75700,yes
+HB-23-183,Real Estate,DB,Daniel Brisk,Settled,2023-07-13,2024-05-18,310,Settled,Client referral,31000,yes
+HB-23-184,Personal Injury,PR,Priya Raman,Closed,2023-07-13,2024-01-01,172,Dismissed or withdrawn,Online search,0,no
+HB-23-185,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-07-13,2023-10-14,93,Settled,Client referral,6200,no
+HB-23-186,Business Law,MH,Melissa Halloway,Settled,2023-07-14,2023-11-05,114,Settled,Professional referral,19200,yes
+HB-23-187,Personal Injury,PR,Priya Raman,Settled,2023-07-17,2024-03-06,233,Settled,Professional referral,5600,no
+HB-23-189,Personal Injury,PR,Priya Raman,Closed,2023-07-19,2025-09-17,791,Trial verdict,Professional referral,135600,yes
+HB-23-190,Business Law,KL,Kevin Liu,Closed,2023-07-20,2023-10-28,100,Completed,Returning client,9900,no
+HB-23-197,Personal Injury,PR,Priya Raman,Settled,2023-07-28,2024-05-13,290,Settled,Client referral,28500,no
+HB-23-198,Personal Injury,PR,Priya Raman,Settled,2023-07-28,2024-03-08,224,Settled,Online search,4200,no
+HB-23-199,Personal Injury,PR,Priya Raman,Settled,2023-07-28,2024-12-02,493,Settled,Client referral,30800,no
+HB-23-201,Personal Injury,PR,Priya Raman,Settled,2023-07-31,2024-06-11,316,Settled,Professional referral,62400,no
+HB-23-202,Estate Planning,EV,Elena Vásquez,Closed,2023-08-03,2023-10-01,59,Completed,Professional referral,4500,no
+HB-23-203,Personal Injury,KL,Kevin Liu,Settled,2023-08-04,2024-09-03,396,Settled,Online search,4400,no
+HB-23-205,Business Law,MH,Melissa Halloway,Settled,2023-08-07,2024-03-04,210,Settled,Online search,58200,yes
+HB-23-206,Personal Injury,KL,Kevin Liu,Closed,2023-08-09,2026-01-28,903,Trial verdict,Returning client,33100,yes
+HB-23-207,Personal Injury,KL,Kevin Liu,Settled,2023-08-14,2025-10-19,797,Settled,Returning client,74500,yes
+HB-23-208,Personal Injury,PR,Priya Raman,Settled,2023-08-14,2024-12-12,486,Settled,Professional referral,8200,yes
+HB-23-209,Personal Injury,PR,Priya Raman,Settled,2023-08-17,2024-04-14,241,Settled,Online search,37900,no
+HB-23-212,Personal Injury,PR,Priya Raman,Settled,2023-08-22,2024-09-11,386,Settled,Returning client,6000,no
+HB-23-213,Personal Injury,KL,Kevin Liu,Settled,2023-08-22,2025-04-06,593,Settled,Returning client,57200,yes
+HB-23-214,Personal Injury,PR,Priya Raman,Closed,2023-08-23,2023-12-11,110,Dismissed or withdrawn,Online search,0,no
+HB-23-215,Personal Injury,PR,Priya Raman,Settled,2023-08-24,2024-06-12,293,Settled,Client referral,60900,no
+HB-23-217,Business Law,MH,Melissa Halloway,Settled,2023-08-28,2024-05-14,260,Settled,Returning client,26500,yes
+HB-23-218,Employment Counsel,PR,Priya Raman,Closed,2023-08-28,2023-10-26,59,Completed,Online search,13900,no
+HB-23-219,Personal Injury,PR,Priya Raman,Settled,2023-08-29,2024-02-03,158,Settled,Online search,19300,no
+HB-23-220,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-08-29,2024-11-22,451,Settled,Returning client,38200,yes
+HB-23-221,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-08-29,2023-10-17,49,Completed,Returning client,3100,no
+HB-23-222,Estate Planning,EV,Elena Vásquez,Closed,2023-08-30,2024-05-30,274,Completed,Client referral,11000,no
+HB-23-223,Personal Injury,SO,Samuel Oyelaran,Settled,2023-08-31,2024-05-15,258,Settled,Online search,41600,no
+HB-23-224,Personal Injury,SO,Samuel Oyelaran,Closed,2023-09-01,2024-01-28,149,Dismissed or withdrawn,Professional referral,0,no
+HB-23-225,Business Law,MH,Melissa Halloway,Closed,2023-09-04,2024-01-23,141,Completed,Returning client,7100,no
+HB-23-226,Business Law,MH,Melissa Halloway,Closed,2023-09-05,2024-01-02,119,Dismissed or withdrawn,Online search,6100,yes
+HB-23-227,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-09-05,2025-12-27,844,Settled,Professional referral,47100,yes
+HB-23-228,Personal Injury,PR,Priya Raman,Settled,2023-09-07,2024-03-10,185,Settled,Professional referral,4700,no
+HB-23-229,Business Law,KL,Kevin Liu,Settled,2023-09-08,2024-03-03,177,Settled,Returning client,19000,yes
+HB-23-230,Business Law,MH,Melissa Halloway,Settled,2023-09-08,2024-02-12,157,Settled,Professional referral,39100,yes
+HB-23-231,Personal Injury,PR,Priya Raman,Settled,2023-09-12,2024-05-23,254,Settled,Returning client,4400,no
+HB-23-232,Business Law,KL,Kevin Liu,Settled,2023-09-13,2024-02-24,164,Settled,Returning client,37900,yes
+HB-23-233,Personal Injury,PR,Priya Raman,Settled,2023-09-13,2025-05-25,620,Settled,Online search,8100,yes
+HB-23-235,Business Law,KL,Kevin Liu,Settled,2023-09-14,2024-10-30,412,Settled,Professional referral,21100,yes
+HB-23-236,Personal Injury,PR,Priya Raman,Settled,2023-09-14,2024-04-25,224,Settled,Professional referral,7700,no
+HB-23-237,Estate Planning,EV,Elena Vásquez,Closed,2023-09-14,2024-12-10,453,Completed,Client referral,11100,no
+HB-23-238,Business Law,KL,Kevin Liu,Closed,2023-09-15,2023-11-20,66,Completed,Professional referral,12600,no
+HB-23-239,Estate Planning,EV,Elena Vásquez,Closed,2023-09-15,2023-10-22,37,Completed,Online search,3600,no
+HB-23-240,Estate Planning,EV,Elena Vásquez,Closed,2023-09-15,2023-10-19,34,Completed,Online search,6500,no
+HB-23-241,Estate Planning,EV,Elena Vásquez,Closed,2023-09-15,2023-11-12,58,Completed,Online search,3600,no
+HB-23-242,Personal Injury,PR,Priya Raman,Settled,2023-09-18,2024-01-19,123,Settled,Online search,4600,no
+HB-23-243,Personal Injury,SO,Samuel Oyelaran,Settled,2023-09-18,2024-10-26,404,Settled,Client referral,53100,no
+HB-23-244,Estate Planning,EV,Elena Vásquez,Closed,2023-09-19,2024-06-28,283,Completed,Client referral,10100,no
+HB-23-245,Estate Planning,EV,Elena Vásquez,Closed,2023-09-19,2024-07-05,290,Completed,Client referral,9200,no
+HB-23-246,Estate Planning,EV,Elena Vásquez,Closed,2023-09-19,2023-11-04,46,Completed,Professional referral,2800,no
+HB-23-247,Business Law,MH,Melissa Halloway,Closed,2023-09-20,2023-12-10,81,Completed,Professional referral,2600,no
+HB-23-248,Estate Planning,EV,Elena Vásquez,Closed,2023-09-20,2024-07-08,292,Completed,Client referral,7500,no
+HB-23-249,Personal Injury,SO,Samuel Oyelaran,Settled,2023-09-21,2024-10-02,377,Settled,Client referral,49100,no
+HB-23-250,Personal Injury,PR,Priya Raman,Closed,2023-09-21,2024-03-02,163,Dismissed or withdrawn,Online search,0,no
+HB-23-251,Estate Planning,EV,Elena Vásquez,Closed,2023-09-21,2023-11-01,41,Completed,Professional referral,2800,no
+HB-23-252,Business Law,MH,Melissa Halloway,Closed,2023-09-22,2023-12-08,77,Completed,Returning client,3500,no
+HB-23-253,Personal Injury,KL,Kevin Liu,Settled,2023-09-22,2024-06-02,254,Settled,Client referral,56900,yes
+HB-23-254,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-09-22,2023-11-17,56,Settled,Client referral,7900,no
+HB-23-255,Business Law,MH,Melissa Halloway,Closed,2023-09-28,2023-11-15,48,Completed,Client referral,8500,no
+HB-23-256,Negotiation & Mediation,MH,Melissa Halloway,Settled,2023-09-28,2023-11-16,49,Settled,Online search,6800,no
+HB-23-257,Estate Planning,EV,Elena Vásquez,Closed,2023-09-29,2023-10-21,22,Completed,Online search,6500,no
+HB-23-258,Estate Planning,EV,Elena Vásquez,Closed,2023-09-29,2023-11-03,35,Completed,Returning client,2800,no
+HB-23-259,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-09-29,2023-12-08,70,Settled,Online search,4000,no
+HB-23-260,Real Estate,MH,Melissa Halloway,Settled,2023-10-03,2026-05-17,957,Settled,Professional referral,27300,yes
+HB-23-261,Personal Injury,PR,Priya Raman,Closed,2023-10-03,2024-01-13,102,Dismissed or withdrawn,Online search,0,no
+HB-23-262,Estate Planning,EV,Elena Vásquez,Closed,2023-10-03,2023-12-12,70,Completed,Online search,3600,no
+HB-23-263,Personal Injury,SO,Samuel Oyelaran,Settled,2023-10-05,2024-08-02,302,Settled,Online search,141800,no
+HB-23-264,Estate Planning,EV,Elena Vásquez,Closed,2023-10-05,2023-11-07,33,Completed,Client referral,6500,no
+HB-23-265,Real Estate,DB,Daniel Brisk,Closed,2023-10-06,2023-11-14,39,Completed,Returning client,6300,no
+HB-23-266,Personal Injury,PR,Priya Raman,Settled,2023-10-06,2024-04-05,182,Settled,Client referral,25800,no
+HB-23-267,Personal Injury,SO,Samuel Oyelaran,Settled,2023-10-10,2024-07-16,280,Settled,Online search,8100,no
+HB-23-268,Personal Injury,PR,Priya Raman,Settled,2023-10-12,2025-11-27,777,Settled,Returning client,57800,yes
+HB-23-269,Estate Planning,EV,Elena Vásquez,Closed,2023-10-12,2023-11-23,42,Completed,Professional referral,4500,no
+HB-23-270,Employment Counsel,PR,Priya Raman,Settled,2023-10-13,2024-11-20,404,Settled,Professional referral,57300,yes
+HB-23-271,Business Law,MH,Melissa Halloway,Settled,2023-10-16,2023-12-05,50,Settled,Professional referral,26300,yes
+HB-23-272,Personal Injury,SO,Samuel Oyelaran,Closed,2023-10-16,2024-02-02,109,Dismissed or withdrawn,Client referral,0,no
+HB-23-273,Personal Injury,PR,Priya Raman,Settled,2023-10-17,2024-07-04,261,Settled,Returning client,4600,no
+HB-23-274,Personal Injury,KL,Kevin Liu,Closed,2023-10-17,2024-01-14,89,Dismissed or withdrawn,Client referral,0,no
+HB-23-275,Estate Planning,EV,Elena Vásquez,Closed,2023-10-17,2023-11-18,32,Completed,Professional referral,6500,no
+HB-23-276,Personal Injury,SO,Samuel Oyelaran,Settled,2023-10-18,2025-02-16,487,Settled,Professional referral,9400,no
+HB-23-277,Employment Counsel,PR,Priya Raman,In Litigation,2023-10-18,,,Still open,Professional referral,12500,yes
+HB-23-278,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-10-19,2023-12-05,47,Settled,Professional referral,4800,no
+HB-23-279,Business Law,MH,Melissa Halloway,Settled,2023-10-20,2024-06-07,231,Settled,Professional referral,29000,yes
+HB-23-280,Personal Injury,PR,Priya Raman,Settled,2023-10-24,2024-06-02,222,Settled,Professional referral,12600,no
+HB-23-281,Estate Planning,DB,Daniel Brisk,Closed,2023-10-24,2023-11-21,28,Completed,Professional referral,2800,no
+HB-23-282,Negotiation & Mediation,MH,Melissa Halloway,Settled,2023-10-25,2024-01-21,88,Settled,Professional referral,8800,no
+HB-23-283,Negotiation & Mediation,MH,Melissa Halloway,Settled,2023-10-25,2024-01-27,94,Settled,Professional referral,8700,no
+HB-23-284,Business Law,KL,Kevin Liu,Closed,2023-10-26,2024-01-31,97,Completed,Professional referral,3600,no
+HB-23-285,Estate Planning,EV,Elena Vásquez,Closed,2023-10-26,2023-11-17,22,Completed,Online search,2800,no
+HB-23-286,Negotiation & Mediation,MH,Melissa Halloway,Settled,2023-10-27,2023-12-04,38,Settled,Client referral,2800,no
+HB-23-287,Estate Planning,EV,Elena Vásquez,Closed,2023-10-31,2023-12-09,39,Completed,Online search,3600,no
+HB-23-288,Business Law,MH,Melissa Halloway,Closed,2023-11-02,2024-02-13,103,Completed,Client referral,7800,no
+HB-23-289,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-11-02,2024-01-16,75,Completed,Professional referral,7500,no
+HB-23-290,Negotiation & Mediation,MH,Melissa Halloway,Settled,2023-11-03,2023-12-31,58,Settled,Online search,4100,no
+HB-23-291,Personal Injury,PR,Priya Raman,Settled,2023-11-06,2025-04-19,530,Settled,Online search,9100,yes
+HB-23-292,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-11-06,2024-05-28,204,Settled,Professional referral,26300,yes
+HB-23-293,Personal Injury,KL,Kevin Liu,Settled,2023-11-07,2024-07-29,265,Settled,Client referral,5000,no
+HB-23-294,Estate Planning,DB,Daniel Brisk,Closed,2023-11-07,2023-11-29,22,Completed,Client referral,4500,no
+HB-23-295,Personal Injury,PR,Priya Raman,Settled,2023-11-08,2024-06-06,211,Settled,Client referral,36500,no
+HB-23-296,Estate Planning,EV,Elena Vásquez,Closed,2023-11-09,2023-12-28,49,Completed,Client referral,4500,no
+HB-23-297,Personal Injury,PR,Priya Raman,Settled,2023-11-10,2024-05-06,178,Settled,Professional referral,35300,no
+HB-23-298,Employment Counsel,PR,Priya Raman,Settled,2023-11-10,2025-09-22,682,Settled,Returning client,55200,yes
+HB-23-299,Real Estate,MH,Melissa Halloway,Closed,2023-11-13,2024-01-03,51,Completed,Online search,4200,no
+HB-23-300,Real Estate,MH,Melissa Halloway,Closed,2023-11-15,2024-01-26,72,Completed,Professional referral,2500,no
+HB-23-301,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-11-15,2024-01-31,77,Completed,Professional referral,7200,no
+HB-23-302,Personal Injury,PR,Priya Raman,Settled,2023-11-17,2024-05-20,185,Settled,Professional referral,26800,no
+HB-23-303,Personal Injury,PR,Priya Raman,Settled,2023-11-17,2024-08-12,269,Settled,Returning client,10400,no
+HB-23-304,Personal Injury,PR,Priya Raman,Settled,2023-11-20,2024-08-25,279,Settled,Returning client,23300,no
+HB-23-305,Estate Planning,EV,Elena Vásquez,Closed,2023-11-20,2023-12-16,26,Completed,Online search,4500,no
+HB-23-306,Estate Planning,EV,Elena Vásquez,Closed,2023-11-20,2023-12-23,33,Completed,Client referral,2800,no
+HB-23-307,Business Law,MH,Melissa Halloway,Settled,2023-11-22,2024-09-28,311,Settled,Returning client,32700,yes
+HB-23-308,Estate Planning,EV,Elena Vásquez,Closed,2023-11-23,2023-12-17,24,Completed,Online search,4500,no
+HB-23-309,Employment Counsel,PR,Priya Raman,Closed,2023-11-24,2024-09-17,298,Dismissed or withdrawn,Returning client,26300,yes
+HB-23-310,Estate Planning,EV,Elena Vásquez,Closed,2023-11-28,2024-02-04,68,Completed,Client referral,3600,no
+HB-23-311,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-11-28,2023-12-27,29,Completed,Professional referral,6100,no
+HB-23-312,Personal Injury,PR,Priya Raman,Settled,2023-11-29,2025-12-25,757,Settled,Online search,29300,yes
+HB-23-313,Personal Injury,PR,Priya Raman,Settled,2023-11-29,2024-11-05,342,Settled,Client referral,14300,no
+HB-23-314,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-12-05,2024-12-31,392,Settled,Returning client,25200,yes
+HB-23-315,Business Law,MH,Melissa Halloway,Closed,2023-12-06,2024-01-04,29,Completed,Returning client,4700,no
+HB-23-316,Estate Planning,EV,Elena Vásquez,Closed,2023-12-06,2023-12-26,20,Completed,Online search,3600,no
+HB-23-317,Business Law,MH,Melissa Halloway,Closed,2023-12-07,2024-03-27,111,Completed,Returning client,5300,no
+HB-23-318,Business Law,MH,Melissa Halloway,Closed,2023-12-11,2024-04-12,123,Completed,Professional referral,4900,no
+HB-23-319,Real Estate,DB,Daniel Brisk,Closed,2023-12-12,2024-01-10,29,Dismissed or withdrawn,Online search,18500,yes
+HB-23-320,Employment Counsel,PR,Priya Raman,Closed,2023-12-12,2024-02-20,70,Completed,Returning client,8400,no
+HB-23-321,Business Law,MH,Melissa Halloway,Settled,2023-12-13,2025-01-15,399,Settled,Online search,34700,yes
+HB-23-322,Personal Injury,PR,Priya Raman,Settled,2023-12-13,2025-07-07,572,Settled,Online search,15200,yes
+HB-23-323,Employment Counsel,SO,Samuel Oyelaran,Closed,2023-12-13,2025-04-01,475,Trial verdict,Client referral,18300,yes
+HB-23-324,Real Estate,DB,Daniel Brisk,Settled,2023-12-15,2024-05-03,140,Settled,Client referral,26200,yes
+HB-23-325,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-12-15,2026-10-03,1023,Settled,Online search,27300,yes
+HB-23-326,Employment Counsel,SO,Samuel Oyelaran,Settled,2023-12-15,2024-09-18,278,Settled,Professional referral,41000,yes
+HB-23-327,Real Estate,DB,Daniel Brisk,Closed,2023-12-18,2024-05-12,146,Trial verdict,Professional referral,16100,yes
+HB-23-328,Estate Planning,EV,Elena Vásquez,Closed,2023-12-18,2024-02-24,68,Completed,Online search,2800,no
+HB-23-329,Personal Injury,PR,Priya Raman,Settled,2023-12-19,2024-06-27,191,Settled,Online search,32800,no
+HB-23-330,Estate Planning,EV,Elena Vásquez,Closed,2023-12-19,2024-01-11,23,Completed,Professional referral,4500,no
+HB-23-331,Personal Injury,PR,Priya Raman,Closed,2023-12-22,2025-08-08,595,Trial verdict,Client referral,7300,yes
+HB-23-332,Personal Injury,PR,Priya Raman,Settled,2023-12-25,2025-07-17,570,Settled,Client referral,51400,yes
+HB-23-333,Business Law,KL,Kevin Liu,Settled,2023-12-26,2024-07-22,209,Settled,Professional referral,28200,yes
+HB-23-334,Estate Planning,EV,Elena Vásquez,Closed,2023-12-26,2024-02-16,52,Completed,Client referral,2800,no
+HB-23-335,Estate Planning,DB,Daniel Brisk,Closed,2023-12-26,2024-01-24,29,Completed,Returning client,2800,no
+HB-23-336,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-12-26,2024-01-22,27,Settled,Returning client,10200,no
+HB-23-337,Real Estate,DB,Daniel Brisk,Closed,2023-12-27,2024-03-08,72,Completed,Returning client,4900,no
+HB-23-338,Estate Planning,EV,Elena Vásquez,Closed,2023-12-27,2024-01-30,34,Completed,Online search,3600,no
+HB-23-339,Negotiation & Mediation,KL,Kevin Liu,Settled,2023-12-28,2024-02-16,50,Settled,Professional referral,6000,no
+HB-23-340,Business Law,MH,Melissa Halloway,Closed,2023-12-29,2024-06-17,171,Completed,Returning client,5100,no
+HB-23-341,Estate Planning,EV,Elena Vásquez,Closed,2023-12-29,2024-01-25,27,Completed,Online search,3600,no
+HB-24-001,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-01-01,2024-03-30,89,Completed,Online search,7000,no
+HB-24-002,Business Law,KL,Kevin Liu,Settled,2024-01-02,2024-07-04,184,Settled,Online search,24500,yes
+HB-24-003,Estate Planning,EV,Elena Vásquez,Closed,2024-01-02,2024-01-28,26,Completed,Online search,2800,no
+HB-24-004,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-01-02,2024-03-08,66,Completed,Client referral,6900,no
+HB-24-005,Business Law,MH,Melissa Halloway,Settled,2024-01-05,2024-10-22,291,Settled,Client referral,40600,yes
+HB-24-006,Personal Injury,SO,Samuel Oyelaran,Settled,2024-01-08,2025-02-01,390,Settled,Professional referral,37200,yes
+HB-24-007,Personal Injury,PR,Priya Raman,Settled,2024-01-08,2024-10-06,272,Settled,Online search,23500,no
+HB-24-008,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-01-08,2024-07-08,182,Settled,Online search,59600,yes
+HB-24-009,Business Law,MH,Melissa Halloway,Settled,2024-01-09,2024-06-27,170,Settled,Client referral,30000,yes
+HB-24-010,Estate Planning,EV,Elena Vásquez,Closed,2024-01-11,2024-03-03,52,Completed,Client referral,4500,no
+HB-24-011,Estate Planning,EV,Elena Vásquez,Closed,2024-01-11,2024-03-07,56,Completed,Client referral,3600,no
+HB-24-012,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-01-11,2024-06-24,165,Settled,Professional referral,4800,no
+HB-24-013,Estate Planning,EV,Elena Vásquez,Closed,2024-01-15,2024-02-29,45,Completed,Client referral,2800,no
+HB-24-014,Estate Planning,EV,Elena Vásquez,Closed,2024-01-17,2024-02-23,37,Completed,Online search,2800,no
+HB-24-015,Real Estate,DB,Daniel Brisk,Closed,2024-01-19,2024-06-07,140,Dismissed or withdrawn,Online search,8900,yes
+HB-24-016,Estate Planning,DB,Daniel Brisk,Closed,2024-01-22,2024-02-20,29,Completed,Professional referral,3600,no
+HB-24-017,Business Law,MH,Melissa Halloway,Closed,2024-01-23,2024-03-18,55,Completed,Client referral,9200,no
+HB-24-018,Estate Planning,EV,Elena Vásquez,Closed,2024-01-23,2024-03-13,50,Completed,Returning client,6500,no
+HB-24-019,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-01-23,2024-02-25,33,Completed,Online search,5300,no
+HB-24-020,Business Law,MH,Melissa Halloway,Settled,2024-01-25,2025-01-12,353,Settled,Professional referral,8000,yes
+HB-24-021,Business Law,MH,Melissa Halloway,Closed,2024-01-26,2024-06-03,129,Trial verdict,Returning client,19200,yes
+HB-24-022,Estate Planning,EV,Elena Vásquez,Closed,2024-01-26,2024-02-11,16,Completed,Online search,4500,no
+HB-24-023,Employment Counsel,PR,Priya Raman,Closed,2024-01-26,2024-02-24,29,Completed,Professional referral,8200,no
+HB-24-024,Business Law,MH,Melissa Halloway,Closed,2024-01-29,2024-04-13,75,Dismissed or withdrawn,Online search,5700,yes
+HB-24-025,Personal Injury,PR,Priya Raman,Settled,2024-01-29,2025-12-11,682,Settled,Online search,8800,no
+HB-24-026,Estate Planning,DB,Daniel Brisk,Closed,2024-01-30,2024-03-12,42,Completed,Professional referral,3600,no
+HB-24-027,Estate Planning,EV,Elena Vásquez,Closed,2024-01-31,2024-03-18,47,Completed,Online search,4500,no
+HB-24-028,Estate Planning,EV,Elena Vásquez,Closed,2024-02-01,2024-02-26,25,Completed,Professional referral,2800,no
+HB-24-029,Real Estate,DB,Daniel Brisk,Closed,2024-02-02,2024-03-04,31,Completed,Online search,3000,no
+HB-24-030,Personal Injury,PR,Priya Raman,Settled,2024-02-02,2026-05-18,836,Settled,Professional referral,88500,yes
+HB-24-031,Business Law,MH,Melissa Halloway,Closed,2024-02-05,2024-03-15,39,Completed,Client referral,3900,no
+HB-24-032,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-02-05,2024-03-11,35,Completed,Online search,11500,no
+HB-24-033,Business Law,MH,Melissa Halloway,Closed,2024-02-06,2024-04-01,55,Completed,Returning client,5000,no
+HB-24-034,Personal Injury,KL,Kevin Liu,Settled,2024-02-06,2025-03-07,395,Settled,Online search,5900,no
+HB-24-035,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-02-06,2024-03-10,33,Completed,Client referral,7300,no
+HB-24-036,Personal Injury,PR,Priya Raman,Closed,2024-02-07,2024-05-07,90,Dismissed or withdrawn,Client referral,0,no
+HB-24-037,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-02-07,2024-02-21,14,Settled,Professional referral,5400,no
+HB-24-038,Business Law,MH,Melissa Halloway,Closed,2024-02-08,2024-04-07,59,Completed,Returning client,4700,no
+HB-24-039,Estate Planning,EV,Elena Vásquez,Closed,2024-02-08,2024-04-04,56,Completed,Online search,4500,no
+HB-24-040,Estate Planning,DB,Daniel Brisk,Closed,2024-02-09,2024-03-17,37,Completed,Online search,4500,no
+HB-24-041,Estate Planning,EV,Elena Vásquez,Closed,2024-02-12,2024-03-18,35,Completed,Client referral,2800,no
+HB-24-042,Estate Planning,EV,Elena Vásquez,Closed,2024-02-12,2024-04-09,57,Completed,Online search,3600,no
+HB-24-043,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-02-12,2024-05-12,90,Settled,Professional referral,2400,no
+HB-24-044,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-02-12,2024-07-23,162,Settled,Professional referral,11800,no
+HB-24-045,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-02-12,2024-05-07,85,Dismissed or withdrawn,Professional referral,18200,yes
+HB-24-046,Business Law,MH,Melissa Halloway,Closed,2024-02-13,2024-06-02,110,Dismissed or withdrawn,Online search,12000,yes
+HB-24-047,Business Law,KL,Kevin Liu,Closed,2024-02-13,2024-06-28,136,Completed,Returning client,15900,no
+HB-24-048,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-02-13,2024-04-18,65,Settled,Client referral,4800,no
+HB-24-049,Estate Planning,EV,Elena Vásquez,Closed,2024-02-14,2024-03-06,21,Completed,Client referral,4500,no
+HB-24-050,Personal Injury,SO,Samuel Oyelaran,Settled,2024-02-15,2025-02-20,371,Settled,Professional referral,19500,yes
+HB-24-051,Estate Planning,DB,Daniel Brisk,Closed,2024-02-20,2024-03-30,39,Completed,Online search,3600,no
+HB-24-052,Estate Planning,EV,Elena Vásquez,Closed,2024-02-20,2024-05-06,76,Completed,Client referral,4500,no
+HB-24-053,Estate Planning,EV,Elena Vásquez,Closed,2024-02-21,2024-03-31,39,Completed,Online search,2800,no
+HB-24-054,Personal Injury,PR,Priya Raman,Settled,2024-02-22,2024-12-30,312,Settled,Professional referral,11700,no
+HB-24-055,Estate Planning,EV,Elena Vásquez,Closed,2024-02-23,2024-04-11,48,Completed,Client referral,3600,no
+HB-24-056,Real Estate,MH,Melissa Halloway,Closed,2024-02-27,2024-05-06,69,Completed,Professional referral,6900,no
+HB-24-057,Estate Planning,EV,Elena Vásquez,Closed,2024-02-27,2024-04-03,36,Completed,Returning client,4500,no
+HB-24-058,Negotiation & Mediation,MH,Melissa Halloway,Settled,2024-02-27,2024-05-12,75,Settled,Returning client,7700,no
+HB-24-059,Business Law,KL,Kevin Liu,Closed,2024-02-28,2024-04-21,53,Completed,Professional referral,4600,no
+HB-24-060,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-02-29,2024-03-22,22,Completed,Returning client,7000,no
+HB-24-061,Business Law,MH,Melissa Halloway,Closed,2024-03-01,2024-04-08,38,Completed,Returning client,5400,no
+HB-24-062,Personal Injury,PR,Priya Raman,Settled,2024-03-01,2025-10-18,596,Settled,Client referral,8400,yes
+HB-24-063,Estate Planning,EV,Elena Vásquez,Closed,2024-03-04,2024-04-08,35,Completed,Returning client,3600,no
+HB-24-064,Estate Planning,EV,Elena Vásquez,Closed,2024-03-05,2024-06-30,117,Completed,Client referral,2800,no
+HB-24-065,Estate Planning,EV,Elena Vásquez,Closed,2024-03-05,2025-07-28,510,Completed,Client referral,12200,no
+HB-24-066,Personal Injury,PR,Priya Raman,Settled,2024-03-06,2024-09-14,192,Settled,Returning client,28400,no
+HB-24-067,Estate Planning,EV,Elena Vásquez,Closed,2024-03-06,2024-04-11,36,Completed,Professional referral,4500,no
+HB-24-068,Estate Planning,DB,Daniel Brisk,Closed,2024-03-06,2024-03-27,21,Completed,Professional referral,2800,no
+HB-24-069,Estate Planning,EV,Elena Vásquez,Closed,2024-03-06,2024-03-20,14,Completed,Online search,6500,no
+HB-24-070,Real Estate,DB,Daniel Brisk,Settled,2024-03-07,2024-07-11,126,Settled,Returning client,53700,yes
+HB-24-071,Personal Injury,PR,Priya Raman,Settled,2024-03-12,2025-05-22,436,Settled,Online search,49300,yes
+HB-24-072,Estate Planning,EV,Elena Vásquez,Closed,2024-03-12,2024-08-18,159,Completed,Client referral,12600,no
+HB-24-073,Estate Planning,EV,Elena Vásquez,Closed,2024-03-12,2024-04-28,47,Completed,Online search,6500,no
+HB-24-074,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-03-12,2024-07-18,128,Dismissed or withdrawn,Client referral,19600,yes
+HB-24-075,Personal Injury,PR,Priya Raman,Settled,2024-03-14,2025-02-12,335,Settled,Returning client,7200,no
+HB-24-076,Estate Planning,EV,Elena Vásquez,Closed,2024-03-14,2025-03-28,379,Completed,Online search,5800,no
+HB-24-077,Estate Planning,EV,Elena Vásquez,Closed,2024-03-14,2025-11-29,625,Completed,Professional referral,6200,no
+HB-24-078,Business Law,MH,Melissa Halloway,Closed,2024-03-15,2024-05-13,59,Completed,Returning client,4200,no
+HB-24-079,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-03-15,2024-03-27,12,Dismissed or withdrawn,Client referral,1800,no
+HB-24-080,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-03-15,2024-04-12,28,Completed,Professional referral,4700,no
+HB-24-081,Real Estate,DB,Daniel Brisk,Closed,2024-03-19,2024-05-09,51,Completed,Online search,3900,no
+HB-24-082,Real Estate,DB,Daniel Brisk,Settled,2024-03-20,2024-08-27,160,Settled,Professional referral,97600,yes
+HB-24-083,Estate Planning,EV,Elena Vásquez,Closed,2024-03-20,2024-05-05,46,Completed,Client referral,4500,no
+HB-24-084,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-03-20,2024-05-25,66,Settled,Online search,4700,no
+HB-24-085,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-03-21,2024-08-19,151,Settled,Online search,48100,yes
+HB-24-086,Estate Planning,EV,Elena Vásquez,Closed,2024-03-22,2024-04-12,21,Completed,Returning client,3600,no
+HB-24-087,Personal Injury,SO,Samuel Oyelaran,Closed,2024-03-25,2024-06-15,82,Dismissed or withdrawn,Online search,0,no
+HB-24-088,Real Estate,DB,Daniel Brisk,Settled,2024-03-26,2024-10-10,198,Settled,Client referral,24100,yes
+HB-24-089,Personal Injury,PR,Priya Raman,Settled,2024-03-26,2025-05-29,429,Settled,Professional referral,43900,no
+HB-24-090,Personal Injury,PR,Priya Raman,Settled,2024-03-26,2025-03-16,355,Settled,Client referral,13400,no
+HB-24-091,Estate Planning,EV,Elena Vásquez,Closed,2024-03-29,2025-05-27,424,Completed,Returning client,9800,no
+HB-24-092,Business Law,MH,Melissa Halloway,Closed,2024-04-01,2024-06-05,65,Completed,Client referral,17900,no
+HB-24-093,Estate Planning,EV,Elena Vásquez,Closed,2024-04-01,2024-04-20,19,Completed,Client referral,2800,no
+HB-24-094,Real Estate,DB,Daniel Brisk,Closed,2024-04-02,2024-06-10,69,Completed,Client referral,3800,no
+HB-24-095,Estate Planning,EV,Elena Vásquez,Closed,2024-04-02,2024-05-25,53,Completed,Client referral,2800,no
+HB-24-096,Personal Injury,SO,Samuel Oyelaran,Settled,2024-04-04,2025-01-12,283,Settled,Professional referral,40600,no
+HB-24-097,Personal Injury,PR,Priya Raman,In Litigation,2024-04-04,,,Still open,Client referral,77600,yes
+HB-24-098,Negotiation & Mediation,MH,Melissa Halloway,Closed,2024-04-04,2024-06-25,82,Dismissed or withdrawn,Online search,1400,no
+HB-24-099,Estate Planning,EV,Elena Vásquez,Closed,2024-04-05,2024-05-13,38,Completed,Client referral,3600,no
+HB-24-100,Business Law,KL,Kevin Liu,Settled,2024-04-08,2025-02-09,307,Settled,Client referral,73800,yes
+HB-24-101,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-04-08,2024-05-29,51,Completed,Professional referral,4300,no
+HB-24-102,Estate Planning,EV,Elena Vásquez,Closed,2024-04-09,2024-06-02,54,Completed,Client referral,4500,no
+HB-24-103,Personal Injury,PR,Priya Raman,Settled,2024-04-10,2025-12-24,623,Settled,Professional referral,6100,yes
+HB-24-104,Estate Planning,EV,Elena Vásquez,Closed,2024-04-10,2025-08-15,492,Completed,Client referral,9800,no
+HB-24-105,Real Estate,DB,Daniel Brisk,Settled,2024-04-11,2024-08-20,131,Settled,Client referral,23600,yes
+HB-24-106,Personal Injury,PR,Priya Raman,Settled,2024-04-11,2025-01-11,275,Settled,Online search,4500,no
+HB-24-107,Employment Counsel,PR,Priya Raman,Closed,2024-04-11,2024-07-30,110,Dismissed or withdrawn,Online search,11500,yes
+HB-24-108,Business Law,MH,Melissa Halloway,Closed,2024-04-16,2024-08-14,120,Completed,Returning client,3900,no
+HB-24-109,Business Law,KL,Kevin Liu,Closed,2024-04-16,2024-05-09,23,Completed,Returning client,3200,no
+HB-24-110,Business Law,MH,Melissa Halloway,Closed,2024-04-16,2024-06-11,56,Completed,Returning client,22400,no
+HB-24-111,Personal Injury,PR,Priya Raman,Settled,2024-04-17,2026-10-09,905,Settled,Online search,11700,yes
+HB-24-112,Estate Planning,EV,Elena Vásquez,Closed,2024-04-17,2024-05-04,17,Completed,Online search,2800,no
+HB-24-113,Real Estate,DB,Daniel Brisk,Closed,2024-04-18,2024-06-02,45,Completed,Professional referral,5600,no
+HB-24-114,Estate Planning,EV,Elena Vásquez,Closed,2024-04-18,2024-05-29,41,Completed,Client referral,3600,no
+HB-24-115,Personal Injury,PR,Priya Raman,Settled,2024-04-19,2024-11-29,224,Settled,Online search,178600,no
+HB-24-116,Estate Planning,EV,Elena Vásquez,Closed,2024-04-19,2024-12-23,248,Completed,Online search,11200,no
+HB-24-117,Estate Planning,DB,Daniel Brisk,Closed,2024-04-19,2025-05-09,385,Completed,Client referral,7400,no
+HB-24-118,Business Law,MH,Melissa Halloway,Closed,2024-04-22,2025-01-02,255,Dismissed or withdrawn,Professional referral,18700,yes
+HB-24-119,Business Law,MH,Melissa Halloway,Closed,2024-04-22,2024-08-05,105,Completed,Returning client,9800,no
+HB-24-120,Real Estate,DB,Daniel Brisk,Closed,2024-04-23,2024-07-19,87,Completed,Online search,5400,no
+HB-24-121,Estate Planning,EV,Elena Vásquez,Closed,2024-04-23,2024-06-11,49,Completed,Online search,2800,no
+HB-24-122,Real Estate,MH,Melissa Halloway,Closed,2024-04-24,2024-06-21,58,Completed,Online search,7600,no
+HB-24-123,Business Law,KL,Kevin Liu,Closed,2024-04-25,2024-09-03,131,Completed,Client referral,4300,no
+HB-24-124,Personal Injury,SO,Samuel Oyelaran,Settled,2024-04-25,2025-03-04,313,Settled,Returning client,8700,no
+HB-24-125,Personal Injury,SO,Samuel Oyelaran,Settled,2024-04-26,2024-10-22,179,Settled,Online search,17900,no
+HB-24-126,Real Estate,DB,Daniel Brisk,Settled,2024-04-29,2024-08-01,94,Settled,Professional referral,70700,yes
+HB-24-127,Personal Injury,KL,Kevin Liu,Settled,2024-04-29,2025-01-15,261,Settled,Professional referral,24200,no
+HB-24-128,Estate Planning,EV,Elena Vásquez,Closed,2024-04-29,2024-06-13,45,Completed,Online search,3600,no
+HB-24-129,Estate Planning,EV,Elena Vásquez,Closed,2024-04-29,2024-06-15,47,Completed,Online search,2800,no
+HB-24-130,Estate Planning,EV,Elena Vásquez,Closed,2024-05-01,2024-05-30,29,Completed,Online search,2800,no
+HB-24-131,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-05-01,2024-06-27,57,Settled,Returning client,10900,no
+HB-24-132,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-05-02,2024-05-23,21,Dismissed or withdrawn,Professional referral,6300,no
+HB-24-133,Personal Injury,PR,Priya Raman,Settled,2024-05-03,2024-12-12,223,Settled,Online search,76000,no
+HB-24-134,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-05-03,2024-07-08,66,Completed,Professional referral,5900,no
+HB-24-135,Personal Injury,SO,Samuel Oyelaran,Settled,2024-05-06,2025-04-08,337,Settled,Professional referral,6600,no
+HB-24-136,Personal Injury,PR,Priya Raman,Settled,2024-05-07,2025-02-12,281,Settled,Online search,2800,no
+HB-24-137,Personal Injury,PR,Priya Raman,Settled,2024-05-07,2026-06-13,767,Settled,Client referral,73300,yes
+HB-24-138,Personal Injury,PR,Priya Raman,Settled,2024-05-10,2024-10-26,169,Settled,Online search,26900,no
+HB-24-139,Personal Injury,PR,Priya Raman,Settled,2024-05-14,2026-03-19,674,Settled,Client referral,14500,yes
+HB-24-140,Real Estate,DB,Daniel Brisk,Settled,2024-05-15,2024-09-28,136,Settled,Returning client,25300,yes
+HB-24-141,Real Estate,DB,Daniel Brisk,Settled,2024-05-15,2024-08-20,97,Settled,Client referral,7400,yes
+HB-24-142,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-05-15,2024-06-10,26,Completed,Online search,6700,no
+HB-24-143,Estate Planning,DB,Daniel Brisk,Closed,2024-05-16,2024-06-08,23,Completed,Professional referral,4500,no
+HB-24-144,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-05-20,2024-07-23,64,Settled,Returning client,6000,no
+HB-24-145,Personal Injury,PR,Priya Raman,Settled,2024-05-21,2024-12-14,207,Settled,Professional referral,4500,no
+HB-24-146,Estate Planning,EV,Elena Vásquez,Closed,2024-05-22,2024-06-24,33,Completed,Returning client,3600,no
+HB-24-147,Real Estate,DB,Daniel Brisk,Closed,2024-05-24,2024-07-08,45,Completed,Professional referral,4100,no
+HB-24-148,Personal Injury,KL,Kevin Liu,Settled,2024-05-24,2025-08-31,464,Settled,Professional referral,10300,yes
+HB-24-149,Personal Injury,PR,Priya Raman,Settled,2024-05-24,2025-06-24,396,Settled,Online search,36100,no
+HB-24-150,Estate Planning,EV,Elena Vásquez,Closed,2024-05-24,2024-07-03,40,Completed,Professional referral,2800,no
+HB-24-151,Estate Planning,EV,Elena Vásquez,Closed,2024-05-24,2024-07-10,47,Completed,Online search,3600,no
+HB-24-152,Estate Planning,EV,Elena Vásquez,Closed,2024-05-24,2025-02-24,276,Completed,Client referral,7300,no
+HB-24-153,Personal Injury,PR,Priya Raman,Closed,2024-05-27,2026-03-05,647,Trial verdict,Online search,8100,yes
+HB-24-154,Real Estate,DB,Daniel Brisk,Closed,2024-05-29,2024-06-14,16,Completed,Professional referral,3300,no
+HB-24-155,Business Law,MH,Melissa Halloway,Closed,2024-05-30,2024-06-30,31,Completed,Returning client,2300,no
+HB-24-156,Real Estate,DB,Daniel Brisk,Closed,2024-06-03,2024-08-30,88,Completed,Online search,3700,no
+HB-24-157,Estate Planning,EV,Elena Vásquez,Closed,2024-06-03,2024-07-14,41,Completed,Client referral,4500,no
+HB-24-158,Estate Planning,EV,Elena Vásquez,Closed,2024-06-04,2024-06-29,25,Completed,Client referral,2800,no
+HB-24-159,Real Estate,DB,Daniel Brisk,Closed,2024-06-05,2024-06-27,22,Completed,Returning client,6000,no
+HB-24-160,Estate Planning,EV,Elena Vásquez,Closed,2024-06-05,2024-07-09,34,Completed,Professional referral,2800,no
+HB-24-161,Real Estate,DB,Daniel Brisk,Closed,2024-06-06,2024-08-13,68,Dismissed or withdrawn,Professional referral,17500,yes
+HB-24-162,Personal Injury,KL,Kevin Liu,Settled,2024-06-07,2025-04-30,327,Settled,Professional referral,30800,no
+HB-24-163,Business Law,KL,Kevin Liu,Closed,2024-06-10,2024-08-12,63,Completed,Professional referral,8200,no
+HB-24-164,Business Law,MH,Melissa Halloway,Closed,2024-06-10,2024-09-09,91,Dismissed or withdrawn,Returning client,8100,yes
+HB-24-165,Personal Injury,KL,Kevin Liu,Settled,2024-06-10,2025-01-19,223,Settled,Client referral,35700,no
+HB-24-166,Real Estate,DB,Daniel Brisk,Closed,2024-06-12,2024-07-17,35,Completed,Online search,4100,no
+HB-24-167,Estate Planning,EV,Elena Vásquez,Closed,2024-06-12,2024-07-25,43,Completed,Returning client,2800,no
+HB-24-168,Estate Planning,EV,Elena Vásquez,Closed,2024-06-12,2024-07-24,42,Completed,Client referral,2800,no
+HB-24-169,Personal Injury,SO,Samuel Oyelaran,Settled,2024-06-13,2025-12-02,537,Settled,Online search,11400,no
+HB-24-170,Estate Planning,EV,Elena Vásquez,Closed,2024-06-13,2024-08-15,63,Completed,Client referral,6500,no
+HB-24-171,Real Estate,MH,Melissa Halloway,Closed,2024-06-14,2024-07-31,47,Completed,Professional referral,5500,no
+HB-24-172,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-06-14,2024-08-16,63,Settled,Client referral,6100,no
+HB-24-173,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-06-14,2025-04-28,318,Settled,Professional referral,12400,yes
+HB-24-174,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-06-14,2024-11-12,151,Settled,Client referral,45500,yes
+HB-24-175,Personal Injury,PR,Priya Raman,Settled,2024-06-18,2026-01-12,573,Settled,Client referral,10900,no
+HB-24-176,Estate Planning,EV,Elena Vásquez,Closed,2024-06-18,2024-08-08,51,Completed,Online search,4500,no
+HB-24-177,Real Estate,DB,Daniel Brisk,Closed,2024-06-19,2024-08-19,61,Completed,Returning client,3800,no
+HB-24-178,Personal Injury,PR,Priya Raman,Settled,2024-06-19,2025-02-08,234,Settled,Returning client,6900,no
+HB-24-179,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-06-19,2024-07-16,27,Completed,Returning client,4400,no
+HB-24-180,Real Estate,MH,Melissa Halloway,Closed,2024-06-20,2024-08-05,46,Completed,Returning client,4300,no
+HB-24-181,Personal Injury,SO,Samuel Oyelaran,Settled,2024-06-20,2025-03-21,274,Settled,Client referral,6000,no
+HB-24-182,Personal Injury,PR,Priya Raman,Settled,2024-06-21,2025-05-13,326,Settled,Online search,24500,no
+HB-24-183,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-06-21,2024-07-25,34,Completed,Professional referral,7800,no
+HB-24-184,Real Estate,DB,Daniel Brisk,Settled,2024-06-24,2025-04-01,281,Settled,Online search,16000,yes
+HB-24-185,Estate Planning,DB,Daniel Brisk,Closed,2024-06-24,2025-08-06,408,Completed,Client referral,6400,no
+HB-24-186,Estate Planning,EV,Elena Vásquez,Closed,2024-06-24,2024-08-06,43,Completed,Client referral,6500,no
+HB-24-187,Real Estate,MH,Melissa Halloway,Settled,2024-06-25,2024-09-26,93,Settled,Professional referral,31100,yes
+HB-24-188,Personal Injury,PR,Priya Raman,Closed,2024-06-25,2024-11-10,138,Dismissed or withdrawn,Client referral,0,no
+HB-24-189,Estate Planning,EV,Elena Vásquez,Closed,2024-06-25,2024-07-22,27,Completed,Returning client,3600,no
+HB-24-190,Real Estate,MH,Melissa Halloway,Closed,2024-06-26,2024-08-21,56,Dismissed or withdrawn,Client referral,7000,yes
+HB-24-191,Real Estate,MH,Melissa Halloway,Closed,2024-06-26,2024-08-13,48,Completed,Professional referral,7800,no
+HB-24-192,Personal Injury,SO,Samuel Oyelaran,Settled,2024-06-27,2024-12-06,162,Settled,Client referral,28500,no
+HB-24-193,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-06-27,2024-08-08,42,Dismissed or withdrawn,Professional referral,4400,no
+HB-24-194,Real Estate,DB,Daniel Brisk,Closed,2024-07-02,2024-10-11,101,Completed,Client referral,3300,no
+HB-24-195,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-07-04,2024-08-01,28,Settled,Client referral,6700,no
+HB-24-196,Real Estate,DB,Daniel Brisk,Closed,2024-07-05,2024-07-30,25,Completed,Professional referral,3800,no
+HB-24-197,Estate Planning,EV,Elena Vásquez,Closed,2024-07-05,2024-08-16,42,Completed,Online search,4500,no
+HB-24-198,Estate Planning,EV,Elena Vásquez,Closed,2024-07-09,2024-08-13,35,Completed,Client referral,3600,no
+HB-24-199,Estate Planning,EV,Elena Vásquez,Closed,2024-07-09,2024-08-26,48,Completed,Online search,4500,no
+HB-24-200,Personal Injury,PR,Priya Raman,Settled,2024-07-10,2026-04-11,640,Settled,Online search,18700,yes
+HB-24-201,Business Law,MH,Melissa Halloway,Closed,2024-07-11,2024-09-27,78,Completed,Returning client,2800,no
+HB-24-202,Real Estate,DB,Daniel Brisk,Closed,2024-07-15,2024-09-05,52,Completed,Returning client,2500,no
+HB-24-203,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-07-15,2024-09-05,52,Settled,Returning client,6400,no
+HB-24-204,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-07-15,2024-09-05,52,Completed,Client referral,3400,no
+HB-24-205,Estate Planning,DB,Daniel Brisk,Closed,2024-07-16,2025-01-29,197,Completed,Online search,9100,no
+HB-24-206,Business Law,MH,Melissa Halloway,Closed,2024-07-17,2025-01-24,191,Completed,Client referral,5400,no
+HB-24-207,Estate Planning,EV,Elena Vásquez,Closed,2024-07-17,2024-08-22,36,Completed,Returning client,3600,no
+HB-24-208,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-07-17,2025-03-03,229,Settled,Returning client,64900,yes
+HB-24-209,Personal Injury,KL,Kevin Liu,Settled,2024-07-18,2026-03-14,604,Settled,Online search,19700,yes
+HB-24-210,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-07-18,2024-10-09,83,Completed,Online search,7500,no
+HB-24-211,Real Estate,MH,Melissa Halloway,Closed,2024-07-19,2024-10-11,84,Completed,Professional referral,5200,no
+HB-24-212,Personal Injury,PR,Priya Raman,In Litigation,2024-07-23,,,Still open,Client referral,43400,yes
+HB-24-213,Business Law,MH,Melissa Halloway,Closed,2024-07-24,2024-10-31,99,Completed,Professional referral,6700,no
+HB-24-214,Estate Planning,EV,Elena Vásquez,Closed,2024-07-25,2024-08-21,27,Completed,Client referral,4500,no
+HB-24-215,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-07-25,2024-09-22,59,Settled,Online search,5000,no
+HB-24-216,Estate Planning,DB,Daniel Brisk,Closed,2024-07-26,2024-08-26,31,Completed,Client referral,4500,no
+HB-24-217,Real Estate,DB,Daniel Brisk,Closed,2024-07-29,2024-09-09,42,Completed,Professional referral,6400,no
+HB-24-218,Real Estate,DB,Daniel Brisk,Closed,2024-07-30,2024-09-15,47,Completed,Client referral,3400,no
+HB-24-219,Personal Injury,PR,Priya Raman,Settled,2024-07-31,2026-02-18,567,Settled,Online search,5500,yes
+HB-24-220,Estate Planning,EV,Elena Vásquez,Closed,2024-07-31,2024-08-29,29,Completed,Professional referral,2800,no
+HB-24-221,Business Law,MH,Melissa Halloway,Settled,2024-08-01,2025-06-01,304,Settled,Professional referral,72900,yes
+HB-24-222,Personal Injury,PR,Priya Raman,Closed,2024-08-01,2024-09-25,55,Dismissed or withdrawn,Professional referral,0,no
+HB-24-223,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-08-02,2024-09-27,56,Settled,Returning client,6200,no
+HB-24-224,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-08-06,2024-09-17,42,Completed,Client referral,6600,no
+HB-24-225,Real Estate,DB,Daniel Brisk,Closed,2024-08-07,2024-10-12,66,Completed,Online search,5300,no
+HB-24-226,Personal Injury,PR,Priya Raman,Settled,2024-08-09,2026-07-11,701,Settled,Online search,9700,yes
+HB-24-227,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-08-09,2024-10-17,69,Settled,Professional referral,3700,no
+HB-24-228,Real Estate,DB,Daniel Brisk,Closed,2024-08-12,2024-09-29,48,Completed,Returning client,4600,no
+HB-24-229,Personal Injury,PR,Priya Raman,Settled,2024-08-12,2025-06-23,315,Settled,Professional referral,45200,no
+HB-24-230,Personal Injury,PR,Priya Raman,Settled,2024-08-12,2025-02-26,198,Settled,Returning client,7100,no
+HB-24-231,Estate Planning,EV,Elena Vásquez,Closed,2024-08-12,2024-09-15,34,Completed,Client referral,4500,no
+HB-24-232,Estate Planning,EV,Elena Vásquez,Closed,2024-08-13,2024-09-23,41,Completed,Professional referral,3600,no
+HB-24-233,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-08-15,2024-11-24,101,Completed,Professional referral,6500,no
+HB-24-234,Estate Planning,EV,Elena Vásquez,Closed,2024-08-19,2025-06-21,306,Completed,Professional referral,9700,no
+HB-24-235,Estate Planning,EV,Elena Vásquez,Closed,2024-08-19,2024-09-14,26,Completed,Online search,2800,no
+HB-24-236,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-08-19,2024-09-29,41,Dismissed or withdrawn,Professional referral,1600,no
+HB-24-237,Personal Injury,PR,Priya Raman,Settled,2024-08-20,2025-11-17,454,Settled,Professional referral,2800,no
+HB-24-238,Real Estate,DB,Daniel Brisk,Closed,2024-08-23,2024-11-12,81,Completed,Returning client,3900,no
+HB-24-239,Personal Injury,PR,Priya Raman,Settled,2024-08-23,2025-01-17,147,Settled,Professional referral,60500,no
+HB-24-240,Personal Injury,KL,Kevin Liu,Settled,2024-08-23,2025-02-06,167,Settled,Professional referral,33900,no
+HB-24-241,Real Estate,DB,Daniel Brisk,Closed,2024-08-26,2024-11-02,68,Completed,Professional referral,4300,no
+HB-24-242,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-08-26,2024-09-27,32,Settled,Professional referral,12500,no
+HB-24-243,Real Estate,DB,Daniel Brisk,Settled,2024-08-29,2024-11-26,89,Settled,Returning client,16600,yes
+HB-24-244,Business Law,KL,Kevin Liu,Closed,2024-08-30,2024-09-23,24,Completed,Professional referral,5100,no
+HB-24-245,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-09-05,2024-12-03,89,Settled,Client referral,4300,no
+HB-24-246,Personal Injury,PR,Priya Raman,Settled,2024-09-06,2025-05-27,263,Settled,Online search,7700,no
+HB-24-247,Estate Planning,EV,Elena Vásquez,Closed,2024-09-06,2024-11-12,67,Completed,Client referral,2800,no
+HB-24-248,Estate Planning,EV,Elena Vásquez,Closed,2024-09-09,2024-10-10,31,Completed,Professional referral,3600,no
+HB-24-249,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-09-09,2024-11-30,82,Settled,Professional referral,8800,no
+HB-24-250,Personal Injury,PR,Priya Raman,Settled,2024-09-11,2025-06-21,283,Settled,Professional referral,16900,no
+HB-24-251,Real Estate,MH,Melissa Halloway,Closed,2024-09-12,2024-11-11,60,Completed,Client referral,4900,no
+HB-24-252,Estate Planning,DB,Daniel Brisk,Closed,2024-09-12,2024-10-06,24,Completed,Returning client,2800,no
+HB-24-253,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-09-12,2026-05-04,599,Settled,Professional referral,42700,yes
+HB-24-254,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-09-13,2024-10-01,18,Dismissed or withdrawn,Professional referral,4700,no
+HB-24-255,Estate Planning,EV,Elena Vásquez,Closed,2024-09-17,2024-10-19,32,Completed,Professional referral,2800,no
+HB-24-256,Employment Counsel,PR,Priya Raman,Closed,2024-09-17,2024-12-13,87,Dismissed or withdrawn,Professional referral,46300,yes
+HB-24-257,Business Law,KL,Kevin Liu,Settled,2024-09-18,2025-04-09,203,Settled,Client referral,41300,yes
+HB-24-258,Business Law,MH,Melissa Halloway,Closed,2024-09-18,2024-12-07,80,Completed,Returning client,1700,no
+HB-24-259,Estate Planning,EV,Elena Vásquez,Closed,2024-09-19,2024-11-14,56,Completed,Client referral,4500,no
+HB-24-260,Personal Injury,PR,Priya Raman,Settled,2024-09-20,2025-04-28,220,Settled,Client referral,25200,no
+HB-24-261,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-09-25,2024-11-06,42,Settled,Online search,8300,no
+HB-24-262,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-09-26,2024-11-25,60,Settled,Professional referral,3600,no
+HB-24-263,Personal Injury,PR,Priya Raman,In Litigation,2024-09-27,,,Still open,Client referral,40300,yes
+HB-24-264,Real Estate,DB,Daniel Brisk,Closed,2024-10-02,2024-11-24,53,Completed,Client referral,4800,no
+HB-24-265,Estate Planning,DB,Daniel Brisk,Closed,2024-10-02,2024-10-30,28,Completed,Online search,2800,no
+HB-24-266,Business Law,KL,Kevin Liu,Closed,2024-10-03,2025-01-26,115,Dismissed or withdrawn,Returning client,19800,yes
+HB-24-267,Negotiation & Mediation,MH,Melissa Halloway,Settled,2024-10-03,2024-12-01,59,Settled,Professional referral,5100,no
+HB-24-268,Estate Planning,DB,Daniel Brisk,Closed,2024-10-04,2024-11-19,46,Completed,Returning client,2800,no
+HB-24-269,Estate Planning,EV,Elena Vásquez,Closed,2024-10-04,2024-11-21,48,Completed,Client referral,4500,no
+HB-24-270,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-10-04,2024-11-10,37,Settled,Returning client,11800,no
+HB-24-271,Personal Injury,PR,Priya Raman,Settled,2024-10-07,2025-05-16,221,Settled,Online search,6700,no
+HB-24-272,Estate Planning,EV,Elena Vásquez,Closed,2024-10-07,2024-11-27,51,Completed,Online search,4500,no
+HB-24-273,Real Estate,DB,Daniel Brisk,Closed,2024-10-08,2024-11-06,29,Completed,Returning client,5000,no
+HB-24-274,Personal Injury,PR,Priya Raman,Settled,2024-10-08,2025-07-24,289,Settled,Online search,4300,no
+HB-24-275,Estate Planning,EV,Elena Vásquez,Closed,2024-10-09,2024-11-14,36,Completed,Online search,3600,no
+HB-24-276,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-10-10,2024-12-23,74,Settled,Professional referral,7600,no
+HB-24-277,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-10-10,2024-11-30,51,Completed,Returning client,5900,no
+HB-24-278,Business Law,MH,Melissa Halloway,Closed,2024-10-11,2025-01-17,98,Completed,Returning client,6800,no
+HB-24-279,Personal Injury,PR,Priya Raman,Settled,2024-10-11,2025-12-14,429,Settled,Online search,64500,no
+HB-24-280,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-10-11,2025-10-31,385,Settled,Returning client,75800,yes
+HB-24-281,Business Law,KL,Kevin Liu,Settled,2024-10-15,2025-04-10,177,Settled,Returning client,20700,yes
+HB-24-282,Estate Planning,DB,Daniel Brisk,Closed,2024-10-15,2024-11-25,41,Completed,Client referral,3600,no
+HB-24-283,Business Law,KL,Kevin Liu,Closed,2024-10-16,2024-12-25,70,Completed,Returning client,14400,no
+HB-24-284,Estate Planning,EV,Elena Vásquez,Closed,2024-10-17,2024-11-25,39,Completed,Online search,6500,no
+HB-24-285,Estate Planning,EV,Elena Vásquez,Closed,2024-10-21,2024-11-30,40,Completed,Client referral,3600,no
+HB-24-286,Estate Planning,DB,Daniel Brisk,Closed,2024-10-21,2024-11-09,19,Completed,Professional referral,3600,no
+HB-24-287,Business Law,KL,Kevin Liu,Closed,2024-10-23,2025-01-11,80,Completed,Returning client,11300,no
+HB-24-288,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-10-24,2026-04-03,526,Settled,Online search,29900,yes
+HB-24-289,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-10-24,2024-11-22,29,Completed,Online search,10700,no
+HB-24-290,Business Law,MH,Melissa Halloway,Settled,2024-10-25,2025-04-03,160,Settled,Returning client,13500,yes
+HB-24-291,Business Law,KL,Kevin Liu,Closed,2024-10-25,2025-04-01,158,Completed,Returning client,5000,no
+HB-24-292,Business Law,MH,Melissa Halloway,Settled,2024-10-28,2025-05-14,198,Settled,Returning client,8100,yes
+HB-24-293,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-10-28,2025-03-02,125,Dismissed or withdrawn,Online search,46000,yes
+HB-24-294,Personal Injury,PR,Priya Raman,Closed,2024-10-30,2026-09-06,676,Trial verdict,Professional referral,5600,yes
+HB-24-295,Personal Injury,KL,Kevin Liu,In Litigation,2024-10-30,,,Still open,Online search,8600,yes
+HB-24-296,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-10-30,2025-08-30,304,Settled,Client referral,3600,no
+HB-24-297,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-10-30,2024-12-02,33,Completed,Client referral,2400,no
+HB-24-298,Estate Planning,DB,Daniel Brisk,Closed,2024-10-31,2024-12-06,36,Completed,Returning client,3600,no
+HB-24-299,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-10-31,2024-11-26,26,Dismissed or withdrawn,Returning client,4500,no
+HB-24-300,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-10-31,2025-03-06,126,Dismissed or withdrawn,Returning client,26300,yes
+HB-24-301,Business Law,MH,Melissa Halloway,Settled,2024-11-01,2025-02-13,104,Settled,Professional referral,16000,yes
+HB-24-302,Personal Injury,SO,Samuel Oyelaran,Settled,2024-11-01,2025-10-18,351,Settled,Professional referral,13900,no
+HB-24-303,Estate Planning,EV,Elena Vásquez,Closed,2024-11-06,2024-12-23,47,Completed,Online search,2800,no
+HB-24-304,Real Estate,MH,Melissa Halloway,Closed,2024-11-07,2024-12-30,53,Completed,Returning client,3700,no
+HB-24-305,Real Estate,DB,Daniel Brisk,Closed,2024-11-07,2024-12-25,48,Completed,Professional referral,9500,no
+HB-24-306,Estate Planning,EV,Elena Vásquez,Closed,2024-11-12,2024-12-22,40,Completed,Online search,4500,no
+HB-24-307,Personal Injury,PR,Priya Raman,Settled,2024-11-13,2025-09-27,318,Settled,Online search,19700,no
+HB-24-308,Employment Counsel,PR,Priya Raman,Closed,2024-11-13,2024-12-22,39,Completed,Professional referral,4900,no
+HB-24-309,Estate Planning,EV,Elena Vásquez,Closed,2024-11-14,2025-07-04,232,Completed,Returning client,8500,no
+HB-24-310,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-11-14,2025-01-27,74,Settled,Client referral,10600,no
+HB-24-311,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-11-14,2024-12-08,24,Dismissed or withdrawn,Client referral,4000,no
+HB-24-312,Personal Injury,KL,Kevin Liu,Settled,2024-11-18,2026-06-12,571,Settled,Professional referral,10400,yes
+HB-24-313,Estate Planning,EV,Elena Vásquez,Closed,2024-11-18,2025-01-30,73,Completed,Online search,3600,no
+HB-24-314,Estate Planning,EV,Elena Vásquez,Closed,2024-11-20,2024-12-24,34,Completed,Online search,4500,no
+HB-24-315,Real Estate,DB,Daniel Brisk,Closed,2024-11-25,2024-12-14,19,Completed,Client referral,5700,no
+HB-24-316,Personal Injury,PR,Priya Raman,Settled,2024-11-26,2025-07-15,231,Settled,Client referral,29400,no
+HB-24-317,Estate Planning,EV,Elena Vásquez,Closed,2024-11-26,2024-12-19,23,Completed,Online search,6500,no
+HB-24-318,Personal Injury,SO,Samuel Oyelaran,Settled,2024-11-28,2025-10-04,310,Settled,Professional referral,10400,no
+HB-24-319,Business Law,KL,Kevin Liu,Closed,2024-11-29,2025-02-19,82,Completed,Online search,6900,no
+HB-24-320,Estate Planning,EV,Elena Vásquez,Closed,2024-11-29,2025-12-11,377,Completed,Client referral,10100,no
+HB-24-321,Estate Planning,EV,Elena Vásquez,Closed,2024-11-29,2025-02-01,64,Completed,Client referral,3600,no
+HB-24-322,Negotiation & Mediation,KL,Kevin Liu,Settled,2024-11-29,2025-01-25,57,Settled,Returning client,5100,no
+HB-24-323,Real Estate,DB,Daniel Brisk,Closed,2024-12-02,2025-01-14,43,Completed,Online search,3800,no
+HB-24-324,Personal Injury,PR,Priya Raman,Settled,2024-12-02,2025-09-03,275,Settled,Professional referral,8700,no
+HB-24-325,Real Estate,DB,Daniel Brisk,Closed,2024-12-03,2025-01-02,30,Completed,Professional referral,3800,no
+HB-24-326,Negotiation & Mediation,MH,Melissa Halloway,Closed,2024-12-04,2024-12-16,12,Dismissed or withdrawn,Online search,2400,no
+HB-24-327,Employment Counsel,PR,Priya Raman,Closed,2024-12-04,2024-12-19,15,Completed,Professional referral,4900,no
+HB-24-328,Real Estate,DB,Daniel Brisk,Closed,2024-12-06,2025-01-21,46,Completed,Professional referral,5600,no
+HB-24-329,Estate Planning,EV,Elena Vásquez,Closed,2024-12-06,2026-02-06,427,Completed,Online search,8200,no
+HB-24-330,Estate Planning,EV,Elena Vásquez,Closed,2024-12-09,2025-01-11,33,Completed,Returning client,4500,no
+HB-24-331,Personal Injury,KL,Kevin Liu,Settled,2024-12-11,2025-09-09,272,Settled,Online search,40400,no
+HB-24-332,Personal Injury,SO,Samuel Oyelaran,Settled,2024-12-12,2026-01-16,400,Settled,Client referral,35900,no
+HB-24-333,Employment Counsel,SO,Samuel Oyelaran,Settled,2024-12-13,2025-09-10,271,Settled,Returning client,51700,yes
+HB-24-334,Personal Injury,SO,Samuel Oyelaran,In Litigation,2024-12-16,,,Still open,Client referral,47000,yes
+HB-24-335,Personal Injury,PR,Priya Raman,Settled,2024-12-16,2025-07-28,224,Settled,Professional referral,65600,no
+HB-24-336,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-12-16,2025-01-31,46,Dismissed or withdrawn,Professional referral,4000,no
+HB-24-337,Negotiation & Mediation,MH,Melissa Halloway,Settled,2024-12-17,2025-01-31,45,Settled,Professional referral,5900,no
+HB-24-338,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-12-17,2025-01-31,45,Dismissed or withdrawn,Returning client,2500,no
+HB-24-339,Personal Injury,PR,Priya Raman,Settled,2024-12-20,2025-06-13,175,Settled,Online search,28400,no
+HB-24-340,Negotiation & Mediation,KL,Kevin Liu,Closed,2024-12-20,2025-01-19,30,Dismissed or withdrawn,Online search,2000,no
+HB-24-341,Business Law,MH,Melissa Halloway,Closed,2024-12-23,2025-01-30,38,Completed,Returning client,6000,no
+HB-24-342,Employment Counsel,PR,Priya Raman,In Litigation,2024-12-23,,,Still open,Returning client,62900,yes
+HB-24-343,Estate Planning,EV,Elena Vásquez,Closed,2024-12-24,2025-02-06,44,Completed,Online search,2800,no
+HB-24-344,Estate Planning,DB,Daniel Brisk,Closed,2024-12-24,2025-01-19,26,Completed,Professional referral,3600,no
+HB-24-345,Real Estate,MH,Melissa Halloway,Closed,2024-12-25,2025-02-09,46,Completed,Professional referral,6300,no
+HB-24-346,Personal Injury,SO,Samuel Oyelaran,Settled,2024-12-25,2026-08-10,593,Settled,Online search,106800,yes
+HB-24-347,Real Estate,DB,Daniel Brisk,Closed,2024-12-26,2025-02-11,47,Completed,Online search,5200,no
+HB-24-348,Personal Injury,KL,Kevin Liu,Settled,2024-12-31,2026-05-30,515,Settled,Online search,7400,yes
+HB-24-349,Personal Injury,SO,Samuel Oyelaran,Settled,2024-12-31,2025-08-30,242,Settled,Online search,9000,no
+HB-24-350,Employment Counsel,SO,Samuel Oyelaran,Closed,2024-12-31,2025-05-07,127,Completed,Online search,4400,no
+HB-25-001,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-01-01,2026-01-07,371,Settled,Online search,103700,yes
+HB-25-002,Business Law,KL,Kevin Liu,Closed,2025-01-02,2025-04-30,118,Completed,Returning client,13800,no
+HB-25-003,Business Law,MH,Melissa Halloway,Closed,2025-01-02,2025-05-12,130,Dismissed or withdrawn,Client referral,48100,yes
+HB-25-004,Estate Planning,EV,Elena Vásquez,Closed,2025-01-02,2025-01-31,29,Completed,Online search,3600,no
+HB-25-005,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-01-02,2025-01-17,15,Completed,Online search,2400,no
+HB-25-006,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-01-06,,,Still open,Professional referral,23800,yes
+HB-25-007,Personal Injury,KL,Kevin Liu,Settled,2025-01-06,2026-09-11,613,Settled,Client referral,42300,yes
+HB-25-008,Estate Planning,EV,Elena Vásquez,Closed,2025-01-06,2025-03-02,55,Completed,Professional referral,6500,no
+HB-25-009,Employment Counsel,PR,Priya Raman,Settled,2025-01-06,2025-07-26,201,Settled,Client referral,134100,yes
+HB-25-010,Personal Injury,SO,Samuel Oyelaran,Settled,2025-01-09,2026-02-09,396,Settled,Professional referral,35400,no
+HB-25-011,Negotiation & Mediation,KL,Kevin Liu,Closed,2025-01-09,2025-01-28,19,Dismissed or withdrawn,Client referral,4000,no
+HB-25-012,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-01-09,2025-02-27,49,Completed,Professional referral,10800,no
+HB-25-013,Business Law,MH,Melissa Halloway,Settled,2025-01-10,2025-10-30,293,Settled,Returning client,61600,yes
+HB-25-014,Real Estate,DB,Daniel Brisk,Closed,2025-01-10,2025-03-08,57,Completed,Client referral,4400,no
+HB-25-015,Business Law,MH,Melissa Halloway,Closed,2025-01-13,2025-02-13,31,Completed,Online search,8400,no
+HB-25-016,Estate Planning,EV,Elena Vásquez,Closed,2025-01-13,2025-02-26,44,Completed,Online search,6500,no
+HB-25-017,Personal Injury,PR,Priya Raman,Active,2025-01-14,,,Still open,Online search,14100,no
+HB-25-018,Estate Planning,EV,Elena Vásquez,Closed,2025-01-14,2025-02-01,18,Completed,Professional referral,2800,no
+HB-25-019,Estate Planning,EV,Elena Vásquez,Closed,2025-01-14,2025-11-03,293,Completed,Client referral,6900,no
+HB-25-020,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-01-15,2026-03-18,427,Settled,Professional referral,53900,yes
+HB-25-021,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-01-16,2025-03-17,60,Settled,Client referral,5000,no
+HB-25-022,Business Law,MH,Melissa Halloway,Closed,2025-01-20,2025-03-27,66,Completed,Professional referral,6300,no
+HB-25-023,Estate Planning,DB,Daniel Brisk,Closed,2025-01-21,2025-02-08,18,Completed,Client referral,3600,no
+HB-25-024,Business Law,MH,Melissa Halloway,Closed,2025-01-22,2025-06-14,143,Completed,Client referral,6900,no
+HB-25-025,Business Law,MH,Melissa Halloway,Settled,2025-01-22,2025-05-08,106,Settled,Professional referral,20700,yes
+HB-25-026,Personal Injury,KL,Kevin Liu,Settled,2025-01-22,2025-12-03,315,Settled,Professional referral,48600,no
+HB-25-027,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-01-22,2026-01-05,348,Dismissed or withdrawn,Returning client,7600,yes
+HB-25-028,Business Law,KL,Kevin Liu,Closed,2025-01-27,2025-05-28,121,Dismissed or withdrawn,Professional referral,10200,yes
+HB-25-029,Business Law,MH,Melissa Halloway,Settled,2025-01-29,2026-02-17,384,Settled,Client referral,61700,yes
+HB-25-030,Estate Planning,EV,Elena Vásquez,Closed,2025-01-29,2025-03-22,52,Completed,Online search,3600,no
+HB-25-031,Estate Planning,EV,Elena Vásquez,Closed,2025-01-30,2025-03-05,34,Completed,Online search,2800,no
+HB-25-032,Employment Counsel,PR,Priya Raman,Closed,2025-01-30,2026-03-24,418,Trial verdict,Online search,17900,yes
+HB-25-033,Estate Planning,EV,Elena Vásquez,Closed,2025-01-31,2025-03-30,58,Completed,Professional referral,6500,no
+HB-25-034,Negotiation & Mediation,MH,Melissa Halloway,Closed,2025-01-31,2025-02-23,23,Dismissed or withdrawn,Professional referral,2200,no
+HB-25-035,Business Law,KL,Kevin Liu,Closed,2025-02-03,2025-07-10,157,Dismissed or withdrawn,Client referral,12000,yes
+HB-25-036,Real Estate,DB,Daniel Brisk,Settled,2025-02-03,2025-06-17,134,Settled,Professional referral,10500,yes
+HB-25-037,Personal Injury,PR,Priya Raman,Settled,2025-02-03,2026-10-03,607,Settled,Online search,6600,no
+HB-25-038,Estate Planning,EV,Elena Vásquez,Closed,2025-02-03,2025-09-19,228,Completed,Professional referral,8000,no
+HB-25-039,Employment Counsel,PR,Priya Raman,Closed,2025-02-03,2025-02-14,11,Completed,Professional referral,7600,no
+HB-25-040,Real Estate,DB,Daniel Brisk,Closed,2025-02-04,2025-03-17,41,Completed,Professional referral,3100,no
+HB-25-041,Personal Injury,PR,Priya Raman,Settled,2025-02-05,2025-11-12,280,Settled,Online search,25000,no
+HB-25-042,Business Law,MH,Melissa Halloway,Closed,2025-02-07,2025-09-28,233,Completed,Client referral,11400,no
+HB-25-043,Estate Planning,DB,Daniel Brisk,Closed,2025-02-10,2025-03-17,35,Completed,Returning client,2800,no
+HB-25-044,Business Law,KL,Kevin Liu,Closed,2025-02-12,2025-04-09,56,Completed,Online search,1900,no
+HB-25-045,Real Estate,DB,Daniel Brisk,Closed,2025-02-12,2025-04-01,48,Completed,Client referral,3400,no
+HB-25-046,Estate Planning,EV,Elena Vásquez,Closed,2025-02-13,2026-05-27,468,Completed,Client referral,12100,no
+HB-25-047,Employment Counsel,PR,Priya Raman,Settled,2025-02-13,2026-01-21,342,Settled,Returning client,19700,yes
+HB-25-048,Business Law,MH,Melissa Halloway,Closed,2025-02-17,2025-03-29,40,Completed,Client referral,7000,no
+HB-25-049,Business Law,MH,Melissa Halloway,Closed,2025-02-17,2025-04-11,53,Completed,Client referral,5400,no
+HB-25-050,Estate Planning,EV,Elena Vásquez,Closed,2025-02-17,2025-04-08,50,Completed,Client referral,3600,no
+HB-25-051,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-02-17,2025-03-30,41,Completed,Online search,3300,no
+HB-25-052,Business Law,MH,Melissa Halloway,Settled,2025-02-18,2025-08-11,174,Settled,Online search,36700,yes
+HB-25-053,Estate Planning,EV,Elena Vásquez,Closed,2025-02-19,2025-12-10,294,Completed,Client referral,7500,no
+HB-25-054,Estate Planning,EV,Elena Vásquez,Closed,2025-02-19,2025-04-24,64,Completed,Returning client,2800,no
+HB-25-055,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-02-19,2025-05-11,81,Dismissed or withdrawn,Professional referral,18500,yes
+HB-25-056,Personal Injury,PR,Priya Raman,Settled,2025-02-20,2026-01-21,335,Settled,Returning client,17900,no
+HB-25-057,Personal Injury,PR,Priya Raman,Settled,2025-02-20,2026-02-26,371,Settled,Client referral,36400,no
+HB-25-058,Business Law,MH,Melissa Halloway,Closed,2025-02-21,2025-07-16,145,Completed,Client referral,5000,no
+HB-25-059,Personal Injury,KL,Kevin Liu,Settled,2025-02-21,2026-02-23,367,Settled,Online search,39800,no
+HB-25-060,Employment Counsel,PR,Priya Raman,Closed,2025-02-21,2025-03-15,22,Completed,Professional referral,3000,no
+HB-25-061,Personal Injury,PR,Priya Raman,Settled,2025-02-24,2026-01-16,326,Settled,Online search,8800,yes
+HB-25-062,Estate Planning,EV,Elena Vásquez,Closed,2025-02-24,2025-03-31,35,Completed,Professional referral,2800,no
+HB-25-063,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-02-25,2025-06-05,100,Completed,Client referral,4200,no
+HB-25-064,Estate Planning,EV,Elena Vásquez,Closed,2025-02-26,2025-04-14,47,Completed,Client referral,3600,no
+HB-25-065,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-02-26,2025-07-04,128,Dismissed or withdrawn,Professional referral,16200,yes
+HB-25-066,Business Law,MH,Melissa Halloway,Closed,2025-02-27,2025-04-24,56,Completed,Client referral,6900,no
+HB-25-067,Real Estate,MH,Melissa Halloway,Closed,2025-02-27,2025-04-14,46,Completed,Online search,3500,no
+HB-25-068,Personal Injury,PR,Priya Raman,Settled,2025-02-27,2025-12-06,282,Settled,Client referral,20600,no
+HB-25-069,Personal Injury,PR,Priya Raman,Settled,2025-02-27,2026-01-01,308,Settled,Client referral,51400,no
+HB-25-070,Business Law,KL,Kevin Liu,Settled,2025-02-28,2025-09-29,213,Settled,Returning client,5800,yes
+HB-25-071,Estate Planning,DB,Daniel Brisk,Closed,2025-02-28,2025-04-20,51,Completed,Online search,6500,no
+HB-25-072,Estate Planning,DB,Daniel Brisk,Closed,2025-02-28,2025-04-16,47,Completed,Client referral,3600,no
+HB-25-073,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-03-03,2025-05-09,67,Settled,Online search,3500,no
+HB-25-074,Business Law,MH,Melissa Halloway,Settled,2025-03-04,2025-09-10,190,Settled,Client referral,34500,yes
+HB-25-075,Real Estate,DB,Daniel Brisk,Closed,2025-03-04,2025-04-29,56,Completed,Client referral,3600,no
+HB-25-076,Personal Injury,PR,Priya Raman,Settled,2025-03-04,2026-02-23,356,Settled,Professional referral,2900,no
+HB-25-077,Real Estate,DB,Daniel Brisk,Closed,2025-03-05,2025-07-25,142,Completed,Professional referral,4500,no
+HB-25-078,Personal Injury,KL,Kevin Liu,Settled,2025-03-05,2026-02-12,344,Settled,Returning client,12500,no
+HB-25-079,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-03-07,2026-01-17,316,Settled,Online search,13700,yes
+HB-25-080,Business Law,MH,Melissa Halloway,Closed,2025-03-11,2025-08-14,156,Completed,Client referral,7400,no
+HB-25-081,Business Law,MH,Melissa Halloway,Closed,2025-03-12,2025-04-14,33,Completed,Returning client,3600,no
+HB-25-082,Personal Injury,KL,Kevin Liu,Settled,2025-03-12,2026-01-09,303,Settled,Online search,29000,no
+HB-25-083,Estate Planning,DB,Daniel Brisk,Closed,2025-03-12,2025-04-17,36,Completed,Professional referral,3600,no
+HB-25-084,Business Law,MH,Melissa Halloway,Closed,2025-03-13,2025-06-12,91,Completed,Client referral,17900,no
+HB-25-085,Real Estate,DB,Daniel Brisk,Closed,2025-03-13,2025-04-16,34,Completed,Client referral,6300,no
+HB-25-086,Real Estate,DB,Daniel Brisk,Closed,2025-03-13,2025-05-14,62,Completed,Professional referral,6800,no
+HB-25-087,Estate Planning,EV,Elena Vásquez,Closed,2025-03-13,2026-05-05,418,Completed,Professional referral,3200,no
+HB-25-088,Business Law,KL,Kevin Liu,Closed,2025-03-17,2025-04-07,21,Completed,Online search,5300,no
+HB-25-089,Business Law,MH,Melissa Halloway,Closed,2025-03-18,2025-06-17,91,Completed,Professional referral,5400,no
+HB-25-090,Negotiation & Mediation,MH,Melissa Halloway,Closed,2025-03-18,2025-04-08,21,Dismissed or withdrawn,Professional referral,3900,no
+HB-25-091,Real Estate,DB,Daniel Brisk,Closed,2025-03-19,2025-05-17,59,Completed,Professional referral,4400,no
+HB-25-092,Estate Planning,EV,Elena Vásquez,Closed,2025-03-21,2025-04-25,35,Completed,Client referral,4500,no
+HB-25-093,Estate Planning,EV,Elena Vásquez,Closed,2025-03-21,2025-04-27,37,Completed,Client referral,4500,no
+HB-25-094,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-03-25,2025-06-07,74,Settled,Client referral,6500,no
+HB-25-095,Employment Counsel,PR,Priya Raman,Settled,2025-03-25,2026-03-07,347,Settled,Professional referral,65000,yes
+HB-25-096,Business Law,KL,Kevin Liu,In Litigation,2025-03-26,,,Still open,Returning client,16900,yes
+HB-25-097,Personal Injury,PR,Priya Raman,In Litigation,2025-03-26,,,Still open,Client referral,15200,yes
+HB-25-098,Personal Injury,PR,Priya Raman,Settled,2025-03-26,2026-09-09,532,Settled,Professional referral,8300,yes
+HB-25-099,Business Law,MH,Melissa Halloway,In Litigation,2025-03-28,,,Still open,Returning client,71000,yes
+HB-25-100,Personal Injury,PR,Priya Raman,In Litigation,2025-03-28,,,Still open,Online search,25800,yes
+HB-25-101,Estate Planning,EV,Elena Vásquez,Closed,2025-03-31,2025-04-26,26,Completed,Client referral,2800,no
+HB-25-102,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-03-31,2025-04-22,22,Completed,Client referral,4300,no
+HB-25-103,Real Estate,DB,Daniel Brisk,Settled,2025-04-01,2026-05-07,401,Settled,Professional referral,32800,yes
+HB-25-104,Estate Planning,DB,Daniel Brisk,Closed,2025-04-01,2025-04-19,18,Completed,Online search,4500,no
+HB-25-105,Real Estate,DB,Daniel Brisk,Closed,2025-04-02,2025-05-04,32,Completed,Professional referral,3800,no
+HB-25-106,Real Estate,DB,Daniel Brisk,Closed,2025-04-03,2025-06-29,87,Completed,Professional referral,8300,no
+HB-25-107,Negotiation & Mediation,KL,Kevin Liu,Closed,2025-04-03,2025-06-21,79,Dismissed or withdrawn,Client referral,3400,no
+HB-25-108,Business Law,MH,Melissa Halloway,Settled,2025-04-04,2025-12-01,241,Settled,Professional referral,50300,yes
+HB-25-109,Estate Planning,EV,Elena Vásquez,Closed,2025-04-04,2025-04-23,19,Completed,Online search,2800,no
+HB-25-110,Estate Planning,EV,Elena Vásquez,Closed,2025-04-04,2025-05-02,28,Completed,Online search,3600,no
+HB-25-111,Business Law,MH,Melissa Halloway,Closed,2025-04-07,2025-11-25,232,Completed,Client referral,6100,no
+HB-25-112,Personal Injury,PR,Priya Raman,Closed,2025-04-07,2025-11-11,218,Dismissed or withdrawn,Online search,0,yes
+HB-25-113,Business Law,MH,Melissa Halloway,Closed,2025-04-08,2025-07-20,103,Dismissed or withdrawn,Client referral,12900,yes
+HB-25-114,Personal Injury,PR,Priya Raman,Settled,2025-04-08,2026-10-03,543,Settled,Online search,25800,yes
+HB-25-115,Estate Planning,DB,Daniel Brisk,Closed,2025-04-08,2025-05-14,36,Completed,Professional referral,4500,no
+HB-25-116,Business Law,MH,Melissa Halloway,Closed,2025-04-10,2025-06-09,60,Completed,Professional referral,12000,no
+HB-25-117,Personal Injury,PR,Priya Raman,Settled,2025-04-10,2025-12-22,256,Settled,Online search,2800,no
+HB-25-118,Estate Planning,EV,Elena Vásquez,Closed,2025-04-10,2025-05-07,27,Completed,Client referral,3600,no
+HB-25-119,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-04-10,2026-03-06,330,Settled,Returning client,22100,yes
+HB-25-120,Business Law,MH,Melissa Halloway,In Litigation,2025-04-11,,,Still open,Client referral,28800,yes
+HB-25-121,Personal Injury,PR,Priya Raman,In Litigation,2025-04-11,,,Still open,Online search,12300,yes
+HB-25-122,Estate Planning,EV,Elena Vásquez,Closed,2025-04-16,2025-05-03,17,Completed,Client referral,3600,no
+HB-25-123,Estate Planning,DB,Daniel Brisk,Closed,2025-04-16,2026-01-16,275,Completed,Online search,7000,no
+HB-25-124,Estate Planning,EV,Elena Vásquez,Closed,2025-04-16,2025-06-26,71,Completed,Online search,4500,no
+HB-25-125,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-04-16,2025-05-15,29,Settled,Returning client,7400,no
+HB-25-126,Estate Planning,EV,Elena Vásquez,Closed,2025-04-17,2025-06-09,53,Completed,Client referral,2800,no
+HB-25-127,Personal Injury,PR,Priya Raman,Settled,2025-04-18,2026-02-23,311,Settled,Client referral,47000,no
+HB-25-128,Negotiation & Mediation,KL,Kevin Liu,Closed,2025-04-18,2025-05-31,43,Dismissed or withdrawn,Returning client,3200,no
+HB-25-129,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-04-18,2025-06-25,68,Settled,Client referral,6800,no
+HB-25-130,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-04-18,2026-03-14,330,Settled,Professional referral,42500,yes
+HB-25-131,Estate Planning,EV,Elena Vásquez,Closed,2025-04-21,2025-05-27,36,Completed,Client referral,6500,no
+HB-25-132,Estate Planning,EV,Elena Vásquez,Closed,2025-04-21,2025-05-20,29,Completed,Online search,2800,no
+HB-25-133,Real Estate,DB,Daniel Brisk,Settled,2025-04-22,2025-06-15,54,Settled,Returning client,20100,yes
+HB-25-134,Real Estate,DB,Daniel Brisk,Settled,2025-04-22,2025-08-14,114,Settled,Client referral,19100,yes
+HB-25-135,Real Estate,DB,Daniel Brisk,Closed,2025-04-23,2025-06-26,64,Dismissed or withdrawn,Professional referral,7700,yes
+HB-25-136,Personal Injury,PR,Priya Raman,Settled,2025-04-23,2026-09-27,522,Settled,Professional referral,23400,yes
+HB-25-137,Estate Planning,EV,Elena Vásquez,Closed,2025-04-23,2026-03-13,324,Completed,Professional referral,3800,no
+HB-25-138,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-04-24,2026-03-18,328,Settled,Professional referral,46300,yes
+HB-25-139,Personal Injury,PR,Priya Raman,Settled,2025-04-25,2026-10-08,531,Settled,Client referral,77900,yes
+HB-25-140,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-04-29,2025-05-26,27,Completed,Online search,5600,no
+HB-25-141,Real Estate,DB,Daniel Brisk,Closed,2025-04-30,2025-05-24,24,Completed,Client referral,4600,no
+HB-25-142,Estate Planning,EV,Elena Vásquez,Closed,2025-04-30,2025-05-30,30,Completed,Returning client,3600,no
+HB-25-143,Business Law,MH,Melissa Halloway,Closed,2025-05-01,2025-08-09,100,Completed,Returning client,13500,no
+HB-25-144,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-05-01,2025-12-18,231,Settled,Client referral,17000,yes
+HB-25-145,Business Law,MH,Melissa Halloway,Closed,2025-05-02,2025-06-18,47,Completed,Returning client,11200,no
+HB-25-146,Real Estate,DB,Daniel Brisk,Closed,2025-05-02,2025-06-17,46,Completed,Client referral,3500,no
+HB-25-147,Business Law,MH,Melissa Halloway,Closed,2025-05-05,2025-06-06,32,Completed,Online search,4500,no
+HB-25-148,Real Estate,DB,Daniel Brisk,Closed,2025-05-06,2025-08-03,89,Completed,Online search,8200,no
+HB-25-149,Estate Planning,EV,Elena Vásquez,Closed,2025-05-06,2025-06-13,38,Completed,Online search,6500,no
+HB-25-150,Personal Injury,PR,Priya Raman,Settled,2025-05-07,2026-02-02,271,Settled,Online search,130100,no
+HB-25-151,Estate Planning,EV,Elena Vásquez,Active,2025-05-08,,,Still open,Returning client,9300,no
+HB-25-152,Estate Planning,EV,Elena Vásquez,Closed,2025-05-08,2025-07-01,54,Completed,Online search,2800,no
+HB-25-153,Estate Planning,EV,Elena Vásquez,Closed,2025-05-08,2025-06-15,38,Completed,Professional referral,3600,no
+HB-25-154,Business Law,KL,Kevin Liu,Closed,2025-05-09,2025-06-14,36,Completed,Professional referral,8100,no
+HB-25-155,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-05-09,2025-06-13,35,Completed,Professional referral,6100,no
+HB-25-156,Personal Injury,PR,Priya Raman,Settled,2025-05-12,2026-09-11,487,Settled,Returning client,12500,no
+HB-25-157,Personal Injury,PR,Priya Raman,Settled,2025-05-13,2026-03-07,298,Settled,Online search,8900,no
+HB-25-158,Real Estate,DB,Daniel Brisk,Closed,2025-05-14,2025-06-12,29,Completed,Online search,2200,no
+HB-25-159,Estate Planning,EV,Elena Vásquez,Closed,2025-05-14,2025-06-07,24,Completed,Professional referral,2800,no
+HB-25-160,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-05-14,2026-05-14,365,Settled,Client referral,28300,yes
+HB-25-161,Personal Injury,PR,Priya Raman,Settled,2025-05-19,2026-06-16,393,Settled,Client referral,13800,no
+HB-25-162,Estate Planning,EV,Elena Vásquez,Closed,2025-05-19,2025-06-17,29,Completed,Professional referral,2800,no
+HB-25-163,Estate Planning,EV,Elena Vásquez,Closed,2025-05-19,2025-06-08,20,Completed,Client referral,4500,no
+HB-25-164,Business Law,MH,Melissa Halloway,Settled,2025-05-20,2025-12-17,211,Settled,Client referral,17700,yes
+HB-25-165,Estate Planning,EV,Elena Vásquez,Closed,2025-05-22,2025-06-04,13,Completed,Professional referral,3600,no
+HB-25-166,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-05-23,2025-07-23,61,Settled,Client referral,17000,no
+HB-25-167,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-05-23,2025-08-10,79,Settled,Client referral,7400,no
+HB-25-168,Estate Planning,EV,Elena Vásquez,Closed,2025-05-26,2025-06-21,26,Completed,Online search,2800,no
+HB-25-169,Personal Injury,SO,Samuel Oyelaran,Settled,2025-05-27,2026-02-01,250,Settled,Online search,22900,no
+HB-25-170,Estate Planning,DB,Daniel Brisk,Closed,2025-05-27,2026-07-31,430,Completed,Professional referral,6400,no
+HB-25-171,Personal Injury,KL,Kevin Liu,Settled,2025-05-28,2025-12-19,205,Settled,Professional referral,24500,no
+HB-25-172,Business Law,MH,Melissa Halloway,Closed,2025-05-29,2025-09-14,108,Completed,Professional referral,5000,no
+HB-25-173,Business Law,MH,Melissa Halloway,Closed,2025-05-29,2025-07-30,62,Completed,Online search,7300,no
+HB-25-174,Estate Planning,EV,Elena Vásquez,Closed,2025-05-29,2025-07-11,43,Completed,Client referral,2800,no
+HB-25-175,Business Law,MH,Melissa Halloway,Settled,2025-05-30,2026-05-07,342,Settled,Professional referral,18000,yes
+HB-25-176,Personal Injury,PR,Priya Raman,Settled,2025-05-30,2026-05-29,364,Settled,Client referral,11300,no
+HB-25-177,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-05-30,2025-07-15,46,Settled,Professional referral,5800,no
+HB-25-178,Employment Counsel,PR,Priya Raman,Closed,2025-05-30,2025-07-09,40,Completed,Online search,5200,no
+HB-25-179,Real Estate,DB,Daniel Brisk,Closed,2025-06-02,2025-07-17,45,Completed,Professional referral,5400,no
+HB-25-180,Real Estate,DB,Daniel Brisk,Closed,2025-06-02,2025-07-09,37,Completed,Online search,3700,no
+HB-25-181,Real Estate,MH,Melissa Halloway,Closed,2025-06-03,2025-08-02,60,Completed,Professional referral,4900,no
+HB-25-182,Personal Injury,KL,Kevin Liu,Settled,2025-06-03,2026-05-06,337,Settled,Online search,10900,no
+HB-25-183,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-06-04,,,Still open,Professional referral,72000,yes
+HB-25-184,Personal Injury,SO,Samuel Oyelaran,Settled,2025-06-04,2026-01-28,238,Settled,Professional referral,6700,no
+HB-25-185,Personal Injury,PR,Priya Raman,Settled,2025-06-04,2026-02-11,252,Settled,Online search,28600,no
+HB-25-186,Real Estate,DB,Daniel Brisk,Closed,2025-06-05,2025-07-12,37,Completed,Professional referral,3700,no
+HB-25-187,Personal Injury,KL,Kevin Liu,Settled,2025-06-05,2026-03-31,299,Settled,Online search,15300,no
+HB-25-188,Business Law,MH,Melissa Halloway,Closed,2025-06-06,2025-07-29,53,Completed,Returning client,6700,no
+HB-25-189,Real Estate,DB,Daniel Brisk,Closed,2025-06-06,2025-09-14,100,Completed,Online search,3600,no
+HB-25-190,Business Law,MH,Melissa Halloway,Closed,2025-06-09,2025-07-25,46,Completed,Returning client,5100,no
+HB-25-191,Estate Planning,EV,Elena Vásquez,Closed,2025-06-09,2025-08-07,59,Completed,Online search,2800,no
+HB-25-192,Business Law,MH,Melissa Halloway,Closed,2025-06-11,2025-09-18,99,Dismissed or withdrawn,Returning client,4300,yes
+HB-25-193,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-06-11,2026-09-03,449,Settled,Online search,27700,yes
+HB-25-194,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-06-12,2026-03-04,265,Settled,Client referral,23200,yes
+HB-25-195,Real Estate,MH,Melissa Halloway,Closed,2025-06-13,2025-07-15,32,Completed,Professional referral,5100,no
+HB-25-196,Estate Planning,EV,Elena Vásquez,Closed,2025-06-17,2025-08-21,65,Completed,Client referral,6500,no
+HB-25-197,Estate Planning,EV,Elena Vásquez,Closed,2025-06-17,2025-08-14,58,Completed,Client referral,4500,no
+HB-25-198,Business Law,KL,Kevin Liu,Closed,2025-06-18,2026-01-08,204,Completed,Returning client,2100,no
+HB-25-199,Real Estate,DB,Daniel Brisk,Settled,2025-06-23,2025-08-30,68,Settled,Online search,19800,yes
+HB-25-200,Personal Injury,SO,Samuel Oyelaran,Settled,2025-06-23,2026-07-21,393,Settled,Professional referral,16600,yes
+HB-25-201,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-06-23,2025-09-19,88,Settled,Professional referral,8200,no
+HB-25-202,Estate Planning,DB,Daniel Brisk,Closed,2025-06-24,2025-07-16,22,Completed,Client referral,2800,no
+HB-25-203,Business Law,KL,Kevin Liu,Closed,2025-06-25,2025-12-08,166,Completed,Online search,5300,no
+HB-25-204,Personal Injury,PR,Priya Raman,Settled,2025-06-25,2026-08-10,411,Settled,Online search,5900,yes
+HB-25-205,Personal Injury,PR,Priya Raman,Settled,2025-06-25,2026-03-30,278,Settled,Returning client,8900,no
+HB-25-206,Estate Planning,EV,Elena Vásquez,Closed,2025-06-26,2025-08-09,44,Completed,Online search,4500,no
+HB-25-207,Personal Injury,PR,Priya Raman,Settled,2025-06-27,2026-01-08,195,Settled,Client referral,20500,no
+HB-25-208,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-06-27,2026-05-30,337,Settled,Client referral,66500,yes
+HB-25-209,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-06-30,2025-08-26,57,Completed,Online search,17300,no
+HB-25-210,Personal Injury,PR,Priya Raman,Closed,2025-07-01,2025-12-16,168,Dismissed or withdrawn,Online search,0,no
+HB-25-211,Estate Planning,DB,Daniel Brisk,Closed,2025-07-03,2025-07-31,28,Completed,Professional referral,6500,no
+HB-25-212,Estate Planning,EV,Elena Vásquez,Closed,2025-07-03,2025-08-07,35,Completed,Online search,2800,no
+HB-25-213,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-07-04,2025-08-06,33,Settled,Professional referral,5200,no
+HB-25-214,Personal Injury,PR,Priya Raman,Settled,2025-07-08,2026-05-01,297,Settled,Client referral,34200,no
+HB-25-215,Employment Counsel,PR,Priya Raman,Closed,2025-07-08,2025-08-20,43,Completed,Client referral,3100,no
+HB-25-216,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-07-11,,,Still open,Professional referral,16300,yes
+HB-25-217,Estate Planning,EV,Elena Vásquez,Closed,2025-07-11,2025-09-02,53,Completed,Client referral,3600,no
+HB-25-218,Estate Planning,EV,Elena Vásquez,Closed,2025-07-14,2025-07-31,17,Completed,Returning client,6500,no
+HB-25-219,Estate Planning,EV,Elena Vásquez,Closed,2025-07-14,2025-08-30,47,Completed,Client referral,4500,no
+HB-25-220,Business Law,MH,Melissa Halloway,Settled,2025-07-15,2025-10-24,101,Settled,Online search,18800,yes
+HB-25-221,Real Estate,DB,Daniel Brisk,Settled,2025-07-15,2025-11-04,112,Settled,Client referral,6500,yes
+HB-25-222,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-07-15,2025-08-19,35,Completed,Professional referral,3500,no
+HB-25-223,Personal Injury,KL,Kevin Liu,Settled,2025-07-16,2026-02-09,208,Settled,Returning client,57400,no
+HB-25-224,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-07-16,2025-08-16,31,Completed,Online search,4200,no
+HB-25-225,Business Law,MH,Melissa Halloway,Settled,2025-07-17,2026-02-28,226,Settled,Client referral,19300,yes
+HB-25-226,Personal Injury,PR,Priya Raman,Settled,2025-07-17,2026-06-15,333,Settled,Returning client,29300,no
+HB-25-227,Negotiation & Mediation,KL,Kevin Liu,Closed,2025-07-17,2025-08-10,24,Dismissed or withdrawn,Client referral,3900,no
+HB-25-228,Personal Injury,PR,Priya Raman,In Litigation,2025-07-18,,,Still open,Client referral,25100,yes
+HB-25-229,Business Law,MH,Melissa Halloway,Closed,2025-07-21,2025-10-15,86,Dismissed or withdrawn,Professional referral,16600,yes
+HB-25-230,Personal Injury,KL,Kevin Liu,Settled,2025-07-21,2026-02-26,220,Settled,Online search,34800,no
+HB-25-231,Personal Injury,PR,Priya Raman,Closed,2025-07-21,2026-10-08,444,Dismissed or withdrawn,Returning client,0,yes
+HB-25-232,Estate Planning,EV,Elena Vásquez,Closed,2025-07-21,2025-09-12,53,Completed,Returning client,2800,no
+HB-25-233,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-07-21,2025-08-30,40,Completed,Online search,7700,no
+HB-25-234,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-07-21,2026-03-17,239,Dismissed or withdrawn,Returning client,20200,yes
+HB-25-235,Business Law,KL,Kevin Liu,Settled,2025-07-22,2025-09-20,60,Settled,Client referral,49800,yes
+HB-25-236,Real Estate,DB,Daniel Brisk,Closed,2025-07-22,2025-09-10,50,Completed,Returning client,4700,no
+HB-25-237,Estate Planning,EV,Elena Vásquez,Closed,2025-07-22,2025-08-23,32,Completed,Client referral,2800,no
+HB-25-238,Employment Counsel,PR,Priya Raman,Closed,2025-07-22,2025-09-28,68,Completed,Online search,20200,no
+HB-25-239,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-07-22,2026-04-23,275,Settled,Returning client,32800,yes
+HB-25-240,Business Law,MH,Melissa Halloway,Closed,2025-07-23,2025-11-30,130,Completed,Professional referral,5000,no
+HB-25-241,Personal Injury,PR,Priya Raman,In Litigation,2025-07-23,,,Still open,Online search,10000,yes
+HB-25-242,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-07-23,2026-03-28,248,Settled,Returning client,111900,yes
+HB-25-243,Estate Planning,EV,Elena Vásquez,Closed,2025-07-24,2025-08-21,28,Completed,Online search,3600,no
+HB-25-244,Personal Injury,PR,Priya Raman,In Litigation,2025-07-28,,,Still open,Client referral,30700,yes
+HB-25-245,Personal Injury,PR,Priya Raman,Settled,2025-07-30,2025-12-10,133,Settled,Online search,20100,no
+HB-25-246,Estate Planning,EV,Elena Vásquez,Closed,2025-07-30,2025-09-11,43,Completed,Returning client,4500,no
+HB-25-247,Real Estate,DB,Daniel Brisk,Closed,2025-07-31,2025-10-31,92,Completed,Professional referral,2800,no
+HB-25-248,Estate Planning,EV,Elena Vásquez,Closed,2025-07-31,2025-09-19,50,Completed,Online search,4500,no
+HB-25-249,Personal Injury,PR,Priya Raman,Settled,2025-08-01,2026-07-02,335,Settled,Client referral,22700,no
+HB-25-250,Business Law,MH,Melissa Halloway,Settled,2025-08-04,2026-05-25,294,Settled,Returning client,15400,yes
+HB-25-251,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-08-04,2025-09-05,32,Settled,Professional referral,5800,no
+HB-25-252,Estate Planning,EV,Elena Vásquez,Closed,2025-08-05,2025-09-20,46,Completed,Client referral,3600,no
+HB-25-253,Business Law,KL,Kevin Liu,Closed,2025-08-07,2025-10-02,56,Completed,Online search,10900,no
+HB-25-254,Real Estate,MH,Melissa Halloway,Closed,2025-08-07,2025-09-09,33,Completed,Professional referral,3100,no
+HB-25-255,Real Estate,DB,Daniel Brisk,Closed,2025-08-07,2025-12-19,134,Dismissed or withdrawn,Professional referral,7600,yes
+HB-25-256,Personal Injury,PR,Priya Raman,Closed,2025-08-07,2026-01-28,174,Dismissed or withdrawn,Online search,0,no
+HB-25-257,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-08-08,2025-11-06,90,Settled,Returning client,9700,no
+HB-25-258,Real Estate,DB,Daniel Brisk,Settled,2025-08-11,2026-02-04,177,Settled,Professional referral,12000,yes
+HB-25-259,Employment Counsel,PR,Priya Raman,Settled,2025-08-12,2026-08-31,384,Settled,Online search,56500,yes
+HB-25-260,Business Law,KL,Kevin Liu,Closed,2025-08-13,2025-09-10,28,Completed,Professional referral,6700,no
+HB-25-261,Estate Planning,EV,Elena Vásquez,Closed,2025-08-14,2026-05-10,269,Completed,Online search,9900,no
+HB-25-262,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-08-14,2025-12-15,123,Completed,Online search,5500,no
+HB-25-263,Estate Planning,EV,Elena Vásquez,Closed,2025-08-15,2025-09-27,43,Completed,Professional referral,4500,no
+HB-25-264,Personal Injury,KL,Kevin Liu,Settled,2025-08-18,2026-07-09,325,Settled,Client referral,41000,yes
+HB-25-265,Estate Planning,EV,Elena Vásquez,Closed,2025-08-18,2025-11-07,81,Completed,Returning client,4500,no
+HB-25-266,Estate Planning,EV,Elena Vásquez,Closed,2025-08-18,2025-09-20,33,Completed,Client referral,2800,no
+HB-25-267,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-08-18,2026-04-14,239,Settled,Online search,77200,yes
+HB-25-268,Estate Planning,EV,Elena Vásquez,Closed,2025-08-19,2025-09-09,21,Completed,Online search,2800,no
+HB-25-269,Real Estate,MH,Melissa Halloway,Closed,2025-08-20,2025-12-23,125,Dismissed or withdrawn,Online search,11600,yes
+HB-25-270,Personal Injury,PR,Priya Raman,In Litigation,2025-08-20,,,Still open,Client referral,18800,yes
+HB-25-271,Estate Planning,EV,Elena Vásquez,Closed,2025-08-20,2025-09-16,27,Completed,Client referral,2800,no
+HB-25-272,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-08-20,2025-10-25,66,Settled,Professional referral,12400,no
+HB-25-273,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-08-20,2026-01-18,151,Dismissed or withdrawn,Client referral,19000,yes
+HB-25-274,Estate Planning,EV,Elena Vásquez,Closed,2025-08-22,2025-09-28,37,Completed,Online search,4500,no
+HB-25-275,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-08-25,2026-09-25,396,Settled,Online search,38200,yes
+HB-25-276,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-08-26,2025-11-27,93,Settled,Professional referral,2200,no
+HB-25-277,Personal Injury,PR,Priya Raman,Settled,2025-08-28,2026-06-08,284,Settled,Online search,10200,no
+HB-25-278,Business Law,MH,Melissa Halloway,Closed,2025-08-29,2025-10-02,34,Completed,Professional referral,9000,no
+HB-25-279,Business Law,MH,Melissa Halloway,Settled,2025-09-01,2026-08-14,347,Settled,Online search,66300,yes
+HB-25-280,Personal Injury,PR,Priya Raman,Closed,2025-09-01,2026-06-18,290,Dismissed or withdrawn,Online search,0,yes
+HB-25-281,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-09-01,2025-09-30,29,Settled,Professional referral,4700,no
+HB-25-282,Estate Planning,EV,Elena Vásquez,Closed,2025-09-02,2025-09-27,25,Completed,Professional referral,2800,no
+HB-25-283,Real Estate,DB,Daniel Brisk,Closed,2025-09-03,2025-11-18,76,Completed,Professional referral,4000,no
+HB-25-284,Personal Injury,PR,Priya Raman,In Litigation,2025-09-03,,,Still open,Professional referral,45900,yes
+HB-25-285,Personal Injury,PR,Priya Raman,Closed,2025-09-03,2025-11-22,80,Dismissed or withdrawn,Client referral,0,no
+HB-25-286,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-09-03,2025-11-24,82,Completed,Professional referral,2600,no
+HB-25-287,Personal Injury,PR,Priya Raman,In Litigation,2025-09-04,,,Still open,Professional referral,11600,yes
+HB-25-288,Business Law,MH,Melissa Halloway,Closed,2025-09-05,2026-01-03,120,Completed,Client referral,6000,no
+HB-25-289,Real Estate,MH,Melissa Halloway,Closed,2025-09-05,2026-02-20,168,Dismissed or withdrawn,Professional referral,9200,yes
+HB-25-290,Estate Planning,EV,Elena Vásquez,Closed,2025-09-05,2025-10-03,28,Completed,Client referral,6500,no
+HB-25-291,Business Law,MH,Melissa Halloway,Closed,2025-09-08,2025-10-20,42,Completed,Professional referral,7000,no
+HB-25-292,Estate Planning,EV,Elena Vásquez,Closed,2025-09-08,2025-10-17,39,Completed,Returning client,3600,no
+HB-25-293,Personal Injury,PR,Priya Raman,In Litigation,2025-09-09,,,Still open,Online search,21400,yes
+HB-25-294,Personal Injury,PR,Priya Raman,Settled,2025-09-09,2026-09-15,371,Settled,Professional referral,26500,yes
+HB-25-295,Personal Injury,PR,Priya Raman,Settled,2025-09-09,2025-12-14,96,Settled,Client referral,9600,no
+HB-25-296,Business Law,MH,Melissa Halloway,Closed,2025-09-12,2026-01-29,139,Completed,Client referral,4800,no
+HB-25-297,Business Law,KL,Kevin Liu,In Litigation,2025-09-12,,,Still open,Client referral,19900,yes
+HB-25-298,Personal Injury,PR,Priya Raman,Settled,2025-09-12,2026-06-07,268,Settled,Returning client,40200,no
+HB-25-299,Estate Planning,DB,Daniel Brisk,Closed,2025-09-12,2025-10-17,35,Completed,Client referral,2800,no
+HB-25-300,Real Estate,DB,Daniel Brisk,Closed,2025-09-15,2025-11-07,53,Completed,Professional referral,4100,no
+HB-25-301,Personal Injury,PR,Priya Raman,Active,2025-09-15,,,Still open,Returning client,17100,no
+HB-25-302,Real Estate,DB,Daniel Brisk,Closed,2025-09-16,2025-10-29,43,Completed,Professional referral,3500,no
+HB-25-303,Real Estate,DB,Daniel Brisk,Closed,2025-09-16,2025-11-11,56,Completed,Professional referral,3800,no
+HB-25-304,Real Estate,DB,Daniel Brisk,Closed,2025-09-16,2025-12-09,84,Completed,Client referral,5400,no
+HB-25-305,Real Estate,DB,Daniel Brisk,Settled,2025-09-16,2025-11-20,65,Settled,Online search,13200,yes
+HB-25-306,Estate Planning,EV,Elena Vásquez,Closed,2025-09-16,2025-10-22,36,Completed,Client referral,3600,no
+HB-25-307,Personal Injury,PR,Priya Raman,Settled,2025-09-17,2026-07-13,299,Settled,Online search,18100,no
+HB-25-308,Personal Injury,SO,Samuel Oyelaran,Settled,2025-09-17,2026-04-15,210,Settled,Returning client,9800,no
+HB-25-309,Real Estate,DB,Daniel Brisk,Closed,2025-09-19,2025-12-03,75,Completed,Returning client,5800,no
+HB-25-310,Estate Planning,EV,Elena Vásquez,Closed,2025-09-22,2026-08-24,336,Completed,Client referral,7800,no
+HB-25-311,Business Law,MH,Melissa Halloway,Closed,2025-09-23,2025-11-10,48,Completed,Returning client,15500,no
+HB-25-312,Real Estate,DB,Daniel Brisk,Closed,2025-09-24,2025-12-31,98,Completed,Online search,5300,no
+HB-25-313,Real Estate,MH,Melissa Halloway,Settled,2025-09-24,2026-04-30,218,Settled,Professional referral,34300,yes
+HB-25-314,Real Estate,DB,Daniel Brisk,Closed,2025-09-24,2026-03-19,176,Dismissed or withdrawn,Client referral,7300,yes
+HB-25-315,Estate Planning,EV,Elena Vásquez,Closed,2025-09-24,2025-11-08,45,Completed,Client referral,6500,no
+HB-25-316,Estate Planning,EV,Elena Vásquez,Closed,2025-09-24,2025-11-22,59,Completed,Returning client,2800,no
+HB-25-317,Estate Planning,EV,Elena Vásquez,Closed,2025-09-24,2025-11-14,51,Completed,Online search,3600,no
+HB-25-318,Real Estate,DB,Daniel Brisk,Closed,2025-09-25,2025-11-07,43,Completed,Client referral,2400,no
+HB-25-319,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-09-25,,,Still open,Professional referral,27000,yes
+HB-25-320,Estate Planning,EV,Elena Vásquez,Closed,2025-09-25,2025-11-28,64,Completed,Client referral,4500,no
+HB-25-321,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-09-26,2025-11-06,41,Settled,Online search,3500,no
+HB-25-322,Estate Planning,EV,Elena Vásquez,Closed,2025-09-29,2025-11-12,44,Completed,Online search,3600,no
+HB-25-323,Estate Planning,EV,Elena Vásquez,Closed,2025-09-29,2025-11-10,42,Completed,Client referral,2800,no
+HB-25-324,Estate Planning,EV,Elena Vásquez,Closed,2025-10-01,2025-10-28,27,Completed,Professional referral,4500,no
+HB-25-325,Employment Counsel,PR,Priya Raman,In Litigation,2025-10-01,,,Still open,Professional referral,56800,yes
+HB-25-326,Personal Injury,KL,Kevin Liu,In Litigation,2025-10-02,,,Still open,Client referral,38500,yes
+HB-25-327,Real Estate,DB,Daniel Brisk,Closed,2025-10-03,2025-11-01,29,Completed,Client referral,5000,no
+HB-25-328,Personal Injury,PR,Priya Raman,Settled,2025-10-03,2026-04-22,201,Settled,Returning client,37800,no
+HB-25-329,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2025-10-03,,,Still open,Returning client,51400,yes
+HB-25-330,Personal Injury,SO,Samuel Oyelaran,Settled,2025-10-06,2026-02-10,127,Settled,Client referral,27000,no
+HB-25-331,Negotiation & Mediation,MH,Melissa Halloway,Closed,2025-10-06,2025-11-01,26,Dismissed or withdrawn,Client referral,3400,no
+HB-25-332,Personal Injury,KL,Kevin Liu,Active,2025-10-07,,,Still open,Professional referral,119500,no
+HB-25-333,Personal Injury,KL,Kevin Liu,In Litigation,2025-10-07,,,Still open,Returning client,11200,yes
+HB-25-334,Real Estate,DB,Daniel Brisk,In Litigation,2025-10-08,,,Still open,Professional referral,20200,yes
+HB-25-335,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-10-10,2026-09-17,342,Settled,Returning client,36100,yes
+HB-25-336,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2025-10-13,,,Still open,Professional referral,36400,yes
+HB-25-337,Business Law,KL,Kevin Liu,Settled,2025-10-14,2026-01-07,85,Settled,Professional referral,33800,yes
+HB-25-338,Personal Injury,SO,Samuel Oyelaran,Settled,2025-10-14,2026-07-24,283,Settled,Professional referral,60100,no
+HB-25-339,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-10-14,2026-02-02,111,Settled,Professional referral,10500,no
+HB-25-340,Business Law,MH,Melissa Halloway,Settled,2025-10-15,2026-05-15,212,Settled,Professional referral,25900,yes
+HB-25-341,Negotiation & Mediation,KL,Kevin Liu,Closed,2025-10-15,2025-10-27,12,Dismissed or withdrawn,Professional referral,1600,no
+HB-25-342,Personal Injury,PR,Priya Raman,Settled,2025-10-16,2026-07-01,258,Settled,Professional referral,1700,no
+HB-25-343,Estate Planning,EV,Elena Vásquez,Closed,2025-10-16,2026-02-27,134,Completed,Returning client,2800,no
+HB-25-344,Estate Planning,EV,Elena Vásquez,Closed,2025-10-16,2025-11-18,33,Completed,Returning client,3600,no
+HB-25-345,Business Law,MH,Melissa Halloway,Settled,2025-10-17,2026-05-06,201,Settled,Professional referral,20900,yes
+HB-25-346,Personal Injury,PR,Priya Raman,In Litigation,2025-10-17,,,Still open,Professional referral,39400,yes
+HB-25-347,Estate Planning,EV,Elena Vásquez,Closed,2025-10-17,2025-11-17,31,Completed,Online search,2800,no
+HB-25-348,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-10-22,,,Still open,Professional referral,40100,yes
+HB-25-349,Personal Injury,KL,Kevin Liu,Settled,2025-10-22,2026-09-16,329,Settled,Client referral,44500,no
+HB-25-350,Estate Planning,EV,Elena Vásquez,Closed,2025-10-22,2025-12-23,62,Completed,Professional referral,2800,no
+HB-25-351,Estate Planning,EV,Elena Vásquez,Closed,2025-10-22,2025-12-26,65,Completed,Online search,2800,no
+HB-25-352,Personal Injury,PR,Priya Raman,Active,2025-10-23,,,Still open,Professional referral,62800,no
+HB-25-353,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-10-23,2026-01-26,95,Settled,Client referral,3800,no
+HB-25-354,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-10-23,2025-12-31,69,Completed,Client referral,10900,no
+HB-25-355,Estate Planning,EV,Elena Vásquez,Closed,2025-10-24,2025-12-03,40,Completed,Returning client,3600,no
+HB-25-356,Personal Injury,KL,Kevin Liu,Settled,2025-10-27,2026-06-29,245,Settled,Client referral,30200,no
+HB-25-357,Business Law,MH,Melissa Halloway,Closed,2025-10-30,2025-12-06,37,Completed,Professional referral,4500,no
+HB-25-358,Real Estate,DB,Daniel Brisk,Closed,2025-10-30,2026-02-01,94,Completed,Client referral,3300,no
+HB-25-359,Business Law,KL,Kevin Liu,Settled,2025-10-31,2026-03-28,148,Settled,Professional referral,30100,yes
+HB-25-360,Business Law,MH,Melissa Halloway,Closed,2025-11-03,2026-03-16,133,Completed,Online search,11400,no
+HB-25-361,Real Estate,DB,Daniel Brisk,Closed,2025-11-03,2026-01-18,76,Completed,Client referral,5300,no
+HB-25-362,Real Estate,DB,Daniel Brisk,Closed,2025-11-03,2026-01-30,88,Completed,Client referral,5800,no
+HB-25-363,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-11-04,2026-09-12,312,Settled,Online search,93300,yes
+HB-25-364,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2025-11-04,,,Still open,Online search,54500,yes
+HB-25-365,Business Law,MH,Melissa Halloway,Closed,2025-11-05,2026-01-20,76,Completed,Online search,5700,no
+HB-25-366,Real Estate,DB,Daniel Brisk,Closed,2025-11-05,2025-12-02,27,Completed,Professional referral,4000,no
+HB-25-367,Personal Injury,SO,Samuel Oyelaran,Closed,2025-11-05,2026-06-19,226,Dismissed or withdrawn,Professional referral,0,no
+HB-25-368,Employment Counsel,SO,Samuel Oyelaran,Settled,2025-11-06,2026-07-15,251,Settled,Online search,37200,yes
+HB-25-369,Business Law,MH,Melissa Halloway,Closed,2025-11-07,2026-01-19,73,Completed,Professional referral,10300,no
+HB-25-370,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-11-07,2025-12-13,36,Completed,Online search,10000,no
+HB-25-371,Personal Injury,KL,Kevin Liu,In Litigation,2025-11-10,,,Still open,Online search,45900,yes
+HB-25-372,Personal Injury,PR,Priya Raman,Settled,2025-11-10,2026-07-12,244,Settled,Client referral,5500,no
+HB-25-373,Personal Injury,PR,Priya Raman,Settled,2025-11-10,2026-10-10,334,Settled,Client referral,34700,yes
+HB-25-374,Real Estate,DB,Daniel Brisk,Closed,2025-11-11,2026-01-18,68,Completed,Client referral,9300,no
+HB-25-375,Real Estate,DB,Daniel Brisk,Closed,2025-11-11,2026-02-17,98,Completed,Client referral,2400,no
+HB-25-376,Estate Planning,EV,Elena Vásquez,Active,2025-11-12,,,Still open,Client referral,8100,no
+HB-25-377,Personal Injury,PR,Priya Raman,Settled,2025-11-13,2026-08-29,289,Settled,Online search,8600,no
+HB-25-378,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-11-13,2026-01-20,68,Settled,Client referral,4400,no
+HB-25-379,Personal Injury,PR,Priya Raman,Settled,2025-11-14,2026-06-24,222,Settled,Online search,28400,no
+HB-25-380,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-11-14,2026-01-17,64,Completed,Online search,4800,no
+HB-25-381,Personal Injury,PR,Priya Raman,In Litigation,2025-11-17,,,Still open,Professional referral,27200,yes
+HB-25-382,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2025-11-17,,,Still open,Client referral,41800,yes
+HB-25-383,Employment Counsel,PR,Priya Raman,Closed,2025-11-17,2025-12-14,27,Completed,Professional referral,3300,no
+HB-25-384,Business Law,MH,Melissa Halloway,In Litigation,2025-11-18,,,Still open,Returning client,98500,yes
+HB-25-385,Real Estate,DB,Daniel Brisk,Closed,2025-11-18,2026-01-21,64,Completed,Returning client,5500,no
+HB-25-386,Business Law,MH,Melissa Halloway,Closed,2025-11-20,2025-12-15,25,Completed,Professional referral,17500,no
+HB-25-387,Estate Planning,EV,Elena Vásquez,Closed,2025-11-20,2025-12-24,34,Completed,Returning client,6500,no
+HB-25-388,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-11-20,2026-02-05,77,Settled,Online search,8800,no
+HB-25-389,Real Estate,DB,Daniel Brisk,Closed,2025-11-24,2026-01-27,64,Dismissed or withdrawn,Professional referral,12500,yes
+HB-25-390,Personal Injury,KL,Kevin Liu,In Litigation,2025-11-24,,,Still open,Online search,11400,yes
+HB-25-391,Personal Injury,KL,Kevin Liu,Active,2025-11-24,,,Still open,Online search,0,no
+HB-25-392,Business Law,MH,Melissa Halloway,Settled,2025-11-26,2026-09-26,304,Settled,Professional referral,10300,yes
+HB-25-393,Negotiation & Mediation,MH,Melissa Halloway,Settled,2025-11-26,2026-05-15,170,Settled,Client referral,6700,no
+HB-25-394,Estate Planning,EV,Elena Vásquez,Closed,2025-11-27,2025-12-25,28,Completed,Client referral,3600,no
+HB-25-395,Estate Planning,EV,Elena Vásquez,Closed,2025-11-27,2026-01-02,36,Completed,Client referral,4500,no
+HB-25-396,Business Law,MH,Melissa Halloway,Closed,2025-11-28,2026-01-26,59,Completed,Professional referral,5400,no
+HB-25-397,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-11-28,2026-01-27,60,Completed,Returning client,4400,no
+HB-25-398,Personal Injury,PR,Priya Raman,Active,2025-12-01,,,Still open,Online search,17500,no
+HB-25-399,Business Law,MH,Melissa Halloway,In Litigation,2025-12-03,,,Still open,Online search,32200,yes
+HB-25-400,Business Law,MH,Melissa Halloway,Closed,2025-12-03,2026-02-20,79,Completed,Returning client,6500,no
+HB-25-401,Personal Injury,KL,Kevin Liu,In Litigation,2025-12-03,,,Still open,Online search,84000,yes
+HB-25-402,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-12-03,2026-02-09,68,Settled,Returning client,15000,no
+HB-25-403,Business Law,MH,Melissa Halloway,Closed,2025-12-04,2026-02-22,80,Completed,Professional referral,13200,no
+HB-25-404,Personal Injury,PR,Priya Raman,Active,2025-12-04,,,Still open,Returning client,24000,no
+HB-25-405,Personal Injury,PR,Priya Raman,In Litigation,2025-12-05,,,Still open,Professional referral,16500,yes
+HB-25-406,Personal Injury,KL,Kevin Liu,Closed,2025-12-05,2026-05-10,156,Dismissed or withdrawn,Returning client,0,no
+HB-25-407,Estate Planning,EV,Elena Vásquez,Closed,2025-12-05,2025-12-29,24,Completed,Client referral,4500,no
+HB-25-408,Estate Planning,EV,Elena Vásquez,Closed,2025-12-09,2025-12-23,14,Completed,Client referral,6500,no
+HB-25-409,Business Law,MH,Melissa Halloway,Settled,2025-12-10,2026-04-02,113,Settled,Returning client,16300,yes
+HB-25-410,Business Law,MH,Melissa Halloway,Settled,2025-12-10,2026-07-24,226,Settled,Returning client,122400,yes
+HB-25-411,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-12-10,2026-02-19,71,Completed,Returning client,7400,no
+HB-25-412,Personal Injury,PR,Priya Raman,Settled,2025-12-11,2026-09-26,289,Settled,Online search,74300,no
+HB-25-413,Personal Injury,PR,Priya Raman,In Litigation,2025-12-11,,,Still open,Client referral,21400,yes
+HB-25-414,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-12-15,2026-02-17,64,Settled,Professional referral,6900,no
+HB-25-415,Personal Injury,PR,Priya Raman,In Litigation,2025-12-16,,,Still open,Online search,21700,yes
+HB-25-416,Personal Injury,SO,Samuel Oyelaran,In Litigation,2025-12-17,,,Still open,Client referral,90100,yes
+HB-25-417,Personal Injury,PR,Priya Raman,In Litigation,2025-12-17,,,Still open,Client referral,8700,yes
+HB-25-418,Estate Planning,EV,Elena Vásquez,Closed,2025-12-18,2026-01-15,28,Completed,Professional referral,6500,no
+HB-25-419,Employment Counsel,SO,Samuel Oyelaran,Closed,2025-12-22,2026-02-15,55,Completed,Returning client,8000,no
+HB-25-420,Personal Injury,KL,Kevin Liu,Settled,2025-12-23,2026-10-08,289,Settled,Online search,1800,no
+HB-25-421,Personal Injury,PR,Priya Raman,Active,2025-12-24,,,Still open,Professional referral,11700,no
+HB-25-422,Personal Injury,PR,Priya Raman,In Litigation,2025-12-26,,,Still open,Online search,24100,yes
+HB-25-423,Personal Injury,PR,Priya Raman,In Litigation,2025-12-29,,,Still open,Professional referral,19300,yes
+HB-25-424,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-12-29,2026-04-21,113,Settled,Online search,7300,no
+HB-25-425,Negotiation & Mediation,KL,Kevin Liu,Settled,2025-12-29,2026-02-05,38,Settled,Professional referral,10300,no
+HB-25-426,Business Law,MH,Melissa Halloway,In Litigation,2025-12-31,,,Still open,Professional referral,69600,yes
+HB-25-427,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2025-12-31,,,Still open,Online search,91100,yes
+HB-26-001,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-01-01,2026-02-11,41,Completed,Professional referral,13900,no
+HB-26-002,Personal Injury,KL,Kevin Liu,Closed,2026-01-02,2026-05-20,138,Dismissed or withdrawn,Returning client,0,no
+HB-26-003,Personal Injury,SO,Samuel Oyelaran,In Litigation,2026-01-02,,,Still open,Returning client,4900,yes
+HB-26-004,Personal Injury,PR,Priya Raman,In Litigation,2026-01-02,,,Still open,Returning client,3700,yes
+HB-26-005,Personal Injury,PR,Priya Raman,In Litigation,2026-01-02,,,Still open,Online search,4700,yes
+HB-26-006,Estate Planning,EV,Elena Vásquez,Closed,2026-01-02,2026-02-01,30,Completed,Online search,3600,no
+HB-26-007,Estate Planning,DB,Daniel Brisk,Closed,2026-01-05,2026-02-14,40,Completed,Online search,4500,no
+HB-26-008,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-01-05,2026-02-22,48,Completed,Client referral,4200,no
+HB-26-009,Real Estate,DB,Daniel Brisk,Closed,2026-01-06,2026-02-21,46,Completed,Client referral,3100,no
+HB-26-010,Estate Planning,EV,Elena Vásquez,Closed,2026-01-06,2026-02-09,34,Completed,Online search,6500,no
+HB-26-011,Personal Injury,PR,Priya Raman,Settled,2026-01-07,2026-08-13,218,Settled,Online search,19700,no
+HB-26-012,Personal Injury,KL,Kevin Liu,In Litigation,2026-01-08,,,Still open,Online search,37300,yes
+HB-26-013,Estate Planning,EV,Elena Vásquez,Closed,2026-01-08,2026-02-22,45,Completed,Client referral,3600,no
+HB-26-014,Estate Planning,DB,Daniel Brisk,Closed,2026-01-08,2026-02-27,50,Completed,Online search,2800,no
+HB-26-015,Estate Planning,EV,Elena Vásquez,Closed,2026-01-08,2026-02-09,32,Completed,Returning client,6500,no
+HB-26-016,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-01-09,2026-03-20,70,Settled,Professional referral,4900,no
+HB-26-017,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-01-09,2026-07-05,177,Trial verdict,Professional referral,15700,yes
+HB-26-018,Personal Injury,PR,Priya Raman,Settled,2026-01-12,2026-07-17,186,Settled,Online search,13700,no
+HB-26-019,Estate Planning,EV,Elena Vásquez,Closed,2026-01-12,2026-03-14,61,Completed,Professional referral,2800,no
+HB-26-020,Estate Planning,EV,Elena Vásquez,Closed,2026-01-12,2026-02-08,27,Completed,Online search,4500,no
+HB-26-021,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-01-12,2026-06-10,149,Dismissed or withdrawn,Online search,27600,yes
+HB-26-022,Real Estate,DB,Daniel Brisk,Closed,2026-01-13,2026-02-27,45,Completed,Returning client,3700,no
+HB-26-023,Real Estate,DB,Daniel Brisk,Closed,2026-01-15,2026-03-03,47,Completed,Client referral,7100,no
+HB-26-024,Estate Planning,EV,Elena Vásquez,Closed,2026-01-15,2026-02-16,32,Completed,Online search,2800,no
+HB-26-025,Business Law,KL,Kevin Liu,Active,2026-01-16,,,Still open,Online search,4100,no
+HB-26-026,Business Law,KL,Kevin Liu,Closed,2026-01-16,2026-03-30,73,Completed,Professional referral,2800,no
+HB-26-027,Personal Injury,PR,Priya Raman,Settled,2026-01-16,2026-09-30,257,Settled,Online search,41500,no
+HB-26-028,Personal Injury,PR,Priya Raman,In Litigation,2026-01-16,,,Still open,Online search,36400,yes
+HB-26-029,Estate Planning,EV,Elena Vásquez,Closed,2026-01-16,2026-02-16,31,Completed,Professional referral,3600,no
+HB-26-030,Estate Planning,EV,Elena Vásquez,Active,2026-01-20,,,Still open,Returning client,6700,no
+HB-26-031,Estate Planning,EV,Elena Vásquez,Active,2026-01-20,,,Still open,Online search,8700,no
+HB-26-032,Personal Injury,SO,Samuel Oyelaran,Active,2026-01-21,,,Still open,Online search,12500,no
+HB-26-033,Personal Injury,SO,Samuel Oyelaran,Settled,2026-01-21,2026-09-10,232,Settled,Online search,7100,no
+HB-26-034,Personal Injury,KL,Kevin Liu,Active,2026-01-21,,,Still open,Online search,24600,no
+HB-26-035,Business Law,MH,Melissa Halloway,Closed,2026-01-22,2026-06-29,158,Completed,Professional referral,20500,no
+HB-26-036,Estate Planning,DB,Daniel Brisk,Closed,2026-01-22,2026-02-23,32,Completed,Professional referral,2800,no
+HB-26-037,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-01-22,2026-02-14,23,Dismissed or withdrawn,Client referral,2600,no
+HB-26-038,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-01-22,2026-02-08,17,Dismissed or withdrawn,Professional referral,5200,no
+HB-26-039,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-01-22,2026-02-06,15,Completed,Client referral,3000,no
+HB-26-040,Business Law,MH,Melissa Halloway,In Litigation,2026-01-23,,,Still open,Returning client,33800,yes
+HB-26-041,Estate Planning,EV,Elena Vásquez,Closed,2026-01-23,2026-04-07,74,Completed,Online search,3600,no
+HB-26-042,Estate Planning,EV,Elena Vásquez,Closed,2026-01-26,2026-03-06,39,Completed,Returning client,4500,no
+HB-26-043,Business Law,MH,Melissa Halloway,Closed,2026-01-27,2026-09-06,222,Completed,Client referral,6300,no
+HB-26-044,Personal Injury,PR,Priya Raman,In Litigation,2026-01-27,,,Still open,Professional referral,51100,yes
+HB-26-045,Estate Planning,EV,Elena Vásquez,Active,2026-01-27,,,Still open,Online search,4800,no
+HB-26-046,Personal Injury,PR,Priya Raman,Active,2026-01-28,,,Still open,Professional referral,0,no
+HB-26-047,Estate Planning,EV,Elena Vásquez,Closed,2026-01-28,2026-03-12,43,Completed,Client referral,3600,no
+HB-26-048,Estate Planning,EV,Elena Vásquez,Closed,2026-01-30,2026-02-19,20,Completed,Client referral,3600,no
+HB-26-049,Employment Counsel,PR,Priya Raman,Closed,2026-01-30,2026-04-07,67,Completed,Client referral,13800,no
+HB-26-050,Business Law,MH,Melissa Halloway,In Litigation,2026-02-02,,,Still open,Online search,29300,yes
+HB-26-051,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-02,2026-04-12,69,Completed,Professional referral,4000,no
+HB-26-052,Business Law,MH,Melissa Halloway,Closed,2026-02-05,2026-04-08,62,Completed,Returning client,1900,no
+HB-26-053,Business Law,MH,Melissa Halloway,In Litigation,2026-02-05,,,Still open,Returning client,67000,yes
+HB-26-054,Real Estate,DB,Daniel Brisk,Closed,2026-02-05,2026-06-04,119,Dismissed or withdrawn,Professional referral,23000,yes
+HB-26-055,Employment Counsel,PR,Priya Raman,Closed,2026-02-05,2026-03-29,52,Completed,Client referral,7300,no
+HB-26-056,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-06,2026-04-23,76,Completed,Returning client,2300,no
+HB-26-057,Estate Planning,EV,Elena Vásquez,Closed,2026-02-09,2026-02-27,18,Completed,Client referral,4500,no
+HB-26-058,Estate Planning,EV,Elena Vásquez,Closed,2026-02-10,2026-02-24,14,Completed,Client referral,4500,no
+HB-26-059,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-10,2026-03-01,19,Completed,Professional referral,9700,no
+HB-26-060,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-11,2026-03-19,36,Completed,Returning client,2800,no
+HB-26-061,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-11,2026-10-02,233,Dismissed or withdrawn,Professional referral,27400,yes
+HB-26-062,Real Estate,DB,Daniel Brisk,Closed,2026-02-12,2026-05-05,82,Dismissed or withdrawn,Professional referral,10200,yes
+HB-26-063,Personal Injury,PR,Priya Raman,Active,2026-02-12,,,Still open,Online search,10000,no
+HB-26-064,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-02-13,,,Still open,Online search,37800,yes
+HB-26-065,Real Estate,DB,Daniel Brisk,Closed,2026-02-16,2026-06-26,130,Completed,Client referral,4900,no
+HB-26-066,Personal Injury,KL,Kevin Liu,Active,2026-02-17,,,Still open,Returning client,54800,no
+HB-26-067,Personal Injury,KL,Kevin Liu,In Litigation,2026-02-18,,,Still open,Online search,104100,yes
+HB-26-068,Business Law,MH,Melissa Halloway,Closed,2026-02-19,2026-07-29,160,Completed,Client referral,6300,no
+HB-26-069,Estate Planning,DB,Daniel Brisk,Closed,2026-02-19,2026-03-14,23,Completed,Client referral,3600,no
+HB-26-070,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-02-19,2026-05-10,80,Dismissed or withdrawn,Professional referral,9300,yes
+HB-26-071,Business Law,MH,Melissa Halloway,Settled,2026-02-20,2026-09-09,201,Settled,Online search,41400,yes
+HB-26-072,Real Estate,DB,Daniel Brisk,Closed,2026-02-24,2026-04-29,64,Completed,Client referral,6400,no
+HB-26-073,Personal Injury,KL,Kevin Liu,Settled,2026-02-24,2026-06-02,98,Settled,Online search,133800,no
+HB-26-074,Estate Planning,EV,Elena Vásquez,Closed,2026-02-26,2026-03-31,33,Completed,Client referral,3600,no
+HB-26-075,Real Estate,DB,Daniel Brisk,Closed,2026-02-27,2026-04-11,43,Completed,Online search,3700,no
+HB-26-076,Personal Injury,PR,Priya Raman,Active,2026-02-27,,,Still open,Online search,41000,no
+HB-26-077,Personal Injury,PR,Priya Raman,In Litigation,2026-02-27,,,Still open,Online search,56900,yes
+HB-26-078,Personal Injury,PR,Priya Raman,Active,2026-03-02,,,Still open,Online search,34100,no
+HB-26-079,Estate Planning,EV,Elena Vásquez,Closed,2026-03-02,2026-04-11,40,Completed,Online search,2800,no
+HB-26-080,Real Estate,DB,Daniel Brisk,In Litigation,2026-03-03,,,Still open,Online search,63800,yes
+HB-26-081,Estate Planning,EV,Elena Vásquez,Closed,2026-03-03,2026-04-09,37,Completed,Client referral,3600,no
+HB-26-082,Employment Counsel,SO,Samuel Oyelaran,Settled,2026-03-03,2026-10-09,220,Settled,Returning client,53800,yes
+HB-26-083,Business Law,MH,Melissa Halloway,Settled,2026-03-04,2026-05-31,88,Settled,Client referral,30300,yes
+HB-26-084,Estate Planning,EV,Elena Vásquez,Closed,2026-03-04,2026-04-02,29,Completed,Returning client,3600,no
+HB-26-085,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-03-04,,,Still open,Client referral,35400,yes
+HB-26-086,Real Estate,DB,Daniel Brisk,Closed,2026-03-05,2026-04-26,52,Completed,Online search,2600,no
+HB-26-087,Real Estate,DB,Daniel Brisk,Closed,2026-03-05,2026-04-05,31,Completed,Professional referral,4700,no
+HB-26-088,Personal Injury,SO,Samuel Oyelaran,In Litigation,2026-03-05,,,Still open,Returning client,32700,yes
+HB-26-089,Estate Planning,EV,Elena Vásquez,Closed,2026-03-06,2026-04-16,41,Completed,Client referral,6500,no
+HB-26-090,Estate Planning,DB,Daniel Brisk,Closed,2026-03-06,2026-04-19,44,Completed,Client referral,2800,no
+HB-26-091,Business Law,KL,Kevin Liu,Closed,2026-03-09,2026-06-07,90,Completed,Returning client,5500,no
+HB-26-092,Personal Injury,PR,Priya Raman,Active,2026-03-09,,,Still open,Online search,32600,no
+HB-26-093,Personal Injury,PR,Priya Raman,In Litigation,2026-03-09,,,Still open,Online search,9200,yes
+HB-26-094,Estate Planning,EV,Elena Vásquez,Closed,2026-03-09,2026-04-07,29,Completed,Online search,2800,no
+HB-26-095,Personal Injury,PR,Priya Raman,Closed,2026-03-10,2026-05-21,72,Dismissed or withdrawn,Client referral,0,no
+HB-26-096,Estate Planning,EV,Elena Vásquez,Closed,2026-03-11,2026-04-23,43,Completed,Client referral,4500,no
+HB-26-097,Personal Injury,KL,Kevin Liu,Settled,2026-03-13,2026-08-25,165,Settled,Online search,64300,no
+HB-26-098,Estate Planning,EV,Elena Vásquez,Closed,2026-03-13,2026-05-31,79,Completed,Professional referral,2800,no
+HB-26-099,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-03-16,2026-04-30,45,Dismissed or withdrawn,Client referral,1900,no
+HB-26-100,Employment Counsel,PR,Priya Raman,Closed,2026-03-16,2026-06-22,98,Completed,Professional referral,4600,no
+HB-26-101,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-03-17,2026-04-01,15,Dismissed or withdrawn,Professional referral,6100,no
+HB-26-102,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-03-17,2026-04-25,39,Settled,Professional referral,4100,no
+HB-26-103,Business Law,MH,Melissa Halloway,Closed,2026-03-18,2026-08-08,143,Completed,Returning client,4700,no
+HB-26-104,Personal Injury,PR,Priya Raman,In Litigation,2026-03-18,,,Still open,Returning client,10500,yes
+HB-26-105,Business Law,MH,Melissa Halloway,In Litigation,2026-03-19,,,Still open,Returning client,31800,yes
+HB-26-106,Business Law,KL,Kevin Liu,In Litigation,2026-03-20,,,Still open,Client referral,18500,yes
+HB-26-107,Personal Injury,PR,Priya Raman,In Litigation,2026-03-20,,,Still open,Online search,23300,yes
+HB-26-108,Business Law,MH,Melissa Halloway,In Litigation,2026-03-24,,,Still open,Professional referral,41800,yes
+HB-26-109,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-03-25,2026-04-10,16,Completed,Professional referral,4900,no
+HB-26-110,Personal Injury,PR,Priya Raman,In Litigation,2026-03-26,,,Still open,Professional referral,37300,yes
+HB-26-111,Business Law,MH,Melissa Halloway,Closed,2026-03-27,2026-07-27,122,Completed,Professional referral,19500,no
+HB-26-112,Personal Injury,PR,Priya Raman,Active,2026-03-27,,,Still open,Client referral,39400,no
+HB-26-113,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-03-27,2026-05-10,44,Completed,Online search,8900,no
+HB-26-114,Estate Planning,EV,Elena Vásquez,Closed,2026-03-30,2026-05-14,45,Completed,Client referral,2800,no
+HB-26-115,Business Law,MH,Melissa Halloway,Closed,2026-03-31,2026-04-20,20,Completed,Client referral,10200,no
+HB-26-116,Personal Injury,PR,Priya Raman,Closed,2026-03-31,2026-09-05,158,Dismissed or withdrawn,Online search,0,no
+HB-26-117,Real Estate,DB,Daniel Brisk,In Litigation,2026-04-01,,,Still open,Client referral,7100,yes
+HB-26-118,Real Estate,MH,Melissa Halloway,Closed,2026-04-02,2026-06-04,63,Completed,Professional referral,5700,no
+HB-26-119,Estate Planning,EV,Elena Vásquez,Closed,2026-04-02,2026-05-08,36,Completed,Client referral,3600,no
+HB-26-120,Estate Planning,EV,Elena Vásquez,Closed,2026-04-02,2026-04-26,24,Completed,Online search,4500,no
+HB-26-121,Personal Injury,KL,Kevin Liu,In Litigation,2026-04-03,,,Still open,Online search,7700,yes
+HB-26-122,Estate Planning,DB,Daniel Brisk,Active,2026-04-03,,,Still open,Online search,6300,no
+HB-26-123,Estate Planning,EV,Elena Vásquez,Closed,2026-04-07,2026-04-23,16,Completed,Client referral,2800,no
+HB-26-124,Real Estate,DB,Daniel Brisk,Closed,2026-04-08,2026-05-06,28,Completed,Client referral,4800,no
+HB-26-125,Personal Injury,PR,Priya Raman,Active,2026-04-08,,,Still open,Online search,18300,no
+HB-26-126,Personal Injury,PR,Priya Raman,In Litigation,2026-04-08,,,Still open,Returning client,29300,yes
+HB-26-127,Personal Injury,KL,Kevin Liu,Active,2026-04-08,,,Still open,Online search,11300,no
+HB-26-128,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-04-08,2026-06-07,60,Completed,Client referral,7500,no
+HB-26-129,Business Law,KL,Kevin Liu,Closed,2026-04-09,2026-07-02,84,Completed,Professional referral,6500,no
+HB-26-130,Personal Injury,KL,Kevin Liu,Active,2026-04-10,,,Still open,Professional referral,18000,no
+HB-26-131,Real Estate,DB,Daniel Brisk,Closed,2026-04-14,2026-05-30,46,Completed,Professional referral,5600,no
+HB-26-132,Real Estate,DB,Daniel Brisk,Closed,2026-04-16,2026-05-23,37,Completed,Client referral,3400,no
+HB-26-133,Estate Planning,EV,Elena Vásquez,Closed,2026-04-16,2026-05-17,31,Completed,Client referral,3600,no
+HB-26-134,Real Estate,DB,Daniel Brisk,Closed,2026-04-17,2026-06-14,58,Completed,Returning client,4300,no
+HB-26-135,Personal Injury,KL,Kevin Liu,Active,2026-04-17,,,Still open,Returning client,89500,no
+HB-26-136,Estate Planning,EV,Elena Vásquez,Closed,2026-04-17,2026-05-23,36,Completed,Online search,2800,no
+HB-26-137,Employment Counsel,PR,Priya Raman,In Litigation,2026-04-20,,,Still open,Professional referral,59300,yes
+HB-26-138,Personal Injury,SO,Samuel Oyelaran,In Litigation,2026-04-21,,,Still open,Returning client,64700,yes
+HB-26-139,Estate Planning,DB,Daniel Brisk,Closed,2026-04-21,2026-05-16,25,Completed,Professional referral,4500,no
+HB-26-140,Personal Injury,PR,Priya Raman,Active,2026-04-22,,,Still open,Online search,10000,no
+HB-26-141,Estate Planning,EV,Elena Vásquez,Closed,2026-04-22,2026-06-08,47,Completed,Online search,3600,no
+HB-26-142,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-04-27,2026-06-19,53,Settled,Professional referral,9600,no
+HB-26-143,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-04-28,2026-08-16,110,Settled,Professional referral,6900,no
+HB-26-144,Business Law,KL,Kevin Liu,Closed,2026-04-29,2026-07-16,78,Completed,Professional referral,7800,no
+HB-26-145,Real Estate,DB,Daniel Brisk,Closed,2026-04-29,2026-08-01,94,Completed,Client referral,5600,no
+HB-26-146,Real Estate,DB,Daniel Brisk,Closed,2026-04-29,2026-06-29,61,Completed,Online search,3000,no
+HB-26-147,Personal Injury,PR,Priya Raman,Active,2026-04-29,,,Still open,Professional referral,16300,no
+HB-26-148,Personal Injury,PR,Priya Raman,Active,2026-04-29,,,Still open,Online search,24800,no
+HB-26-149,Estate Planning,EV,Elena Vásquez,Closed,2026-04-30,2026-05-30,30,Completed,Online search,6500,no
+HB-26-150,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-04-30,2026-06-29,60,Settled,Professional referral,7900,no
+HB-26-151,Real Estate,DB,Daniel Brisk,In Litigation,2026-05-04,,,Still open,Online search,9600,yes
+HB-26-152,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-05-04,2026-07-20,77,Completed,Client referral,11700,no
+HB-26-153,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-05-04,2026-06-14,41,Completed,Professional referral,11300,no
+HB-26-154,Business Law,MH,Melissa Halloway,Settled,2026-05-05,2026-08-20,107,Settled,Client referral,20300,yes
+HB-26-155,Business Law,MH,Melissa Halloway,Active,2026-05-05,,,Still open,Returning client,2600,no
+HB-26-156,Business Law,MH,Melissa Halloway,In Litigation,2026-05-06,,,Still open,Online search,53400,yes
+HB-26-157,Estate Planning,EV,Elena Vásquez,Closed,2026-05-06,2026-06-01,26,Completed,Online search,4500,no
+HB-26-158,Estate Planning,EV,Elena Vásquez,Closed,2026-05-06,2026-06-01,26,Completed,Professional referral,3600,no
+HB-26-159,Estate Planning,DB,Daniel Brisk,Closed,2026-05-06,2026-07-05,60,Completed,Online search,3600,no
+HB-26-160,Real Estate,MH,Melissa Halloway,Closed,2026-05-07,2026-06-22,46,Completed,Online search,6000,no
+HB-26-161,Estate Planning,EV,Elena Vásquez,Closed,2026-05-07,2026-06-20,44,Completed,Client referral,2800,no
+HB-26-162,Business Law,MH,Melissa Halloway,In Litigation,2026-05-08,,,Still open,Returning client,34800,yes
+HB-26-163,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-05-08,,,Still open,Online search,47800,yes
+HB-26-164,Business Law,KL,Kevin Liu,Settled,2026-05-11,2026-09-09,121,Settled,Online search,33600,yes
+HB-26-165,Personal Injury,KL,Kevin Liu,In Litigation,2026-05-11,,,Still open,Online search,6700,yes
+HB-26-166,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-05-11,,,Still open,Online search,78300,yes
+HB-26-167,Real Estate,DB,Daniel Brisk,Closed,2026-05-13,2026-06-27,45,Completed,Client referral,5800,no
+HB-26-168,Employment Counsel,PR,Priya Raman,Closed,2026-05-13,2026-06-17,35,Completed,Client referral,4300,no
+HB-26-169,Personal Injury,PR,Priya Raman,Active,2026-05-14,,,Still open,Professional referral,0,no
+HB-26-170,Estate Planning,EV,Elena Vásquez,Closed,2026-05-14,2026-06-02,19,Completed,Client referral,2800,no
+HB-26-171,Estate Planning,EV,Elena Vásquez,Closed,2026-05-14,2026-09-09,118,Completed,Online search,4500,no
+HB-26-172,Business Law,MH,Melissa Halloway,In Litigation,2026-05-15,,,Still open,Online search,47900,yes
+HB-26-173,Estate Planning,EV,Elena Vásquez,Closed,2026-05-15,2026-06-17,33,Completed,Professional referral,6500,no
+HB-26-174,Estate Planning,EV,Elena Vásquez,Closed,2026-05-15,2026-06-14,30,Completed,Returning client,4500,no
+HB-26-175,Estate Planning,EV,Elena Vásquez,Closed,2026-05-15,2026-06-12,28,Completed,Professional referral,2800,no
+HB-26-176,Personal Injury,KL,Kevin Liu,Settled,2026-05-18,2026-10-06,141,Settled,Online search,13300,no
+HB-26-177,Personal Injury,PR,Priya Raman,Active,2026-05-18,,,Still open,Professional referral,15400,no
+HB-26-178,Business Law,MH,Melissa Halloway,Settled,2026-05-19,2026-07-26,68,Settled,Professional referral,37800,yes
+HB-26-179,Real Estate,DB,Daniel Brisk,Closed,2026-05-19,2026-07-27,69,Completed,Online search,6000,no
+HB-26-180,Business Law,MH,Melissa Halloway,Closed,2026-05-20,2026-07-20,61,Completed,Client referral,6100,no
+HB-26-181,Business Law,MH,Melissa Halloway,In Litigation,2026-05-20,,,Still open,Online search,52400,yes
+HB-26-182,Personal Injury,PR,Priya Raman,In Litigation,2026-05-20,,,Still open,Professional referral,16800,yes
+HB-26-183,Personal Injury,PR,Priya Raman,Active,2026-05-21,,,Still open,Online search,12300,no
+HB-26-184,Real Estate,DB,Daniel Brisk,Active,2026-05-22,,,Still open,Online search,5000,no
+HB-26-185,Personal Injury,PR,Priya Raman,In Litigation,2026-05-22,,,Still open,Client referral,28600,yes
+HB-26-186,Business Law,MH,Melissa Halloway,Active,2026-05-25,,,Still open,Professional referral,17700,no
+HB-26-187,Real Estate,DB,Daniel Brisk,Closed,2026-05-25,2026-07-16,52,Completed,Client referral,2400,no
+HB-26-188,Real Estate,DB,Daniel Brisk,Closed,2026-05-26,2026-07-12,47,Completed,Online search,5700,no
+HB-26-189,Real Estate,MH,Melissa Halloway,Closed,2026-05-26,2026-07-27,62,Completed,Online search,6500,no
+HB-26-190,Estate Planning,EV,Elena Vásquez,Closed,2026-05-28,2026-08-09,73,Completed,Online search,2800,no
+HB-26-191,Personal Injury,PR,Priya Raman,In Litigation,2026-06-01,,,Still open,Client referral,74000,yes
+HB-26-192,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-06-01,,,Still open,Returning client,39000,yes
+HB-26-193,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-06-01,,,Still open,Online search,44100,yes
+HB-26-194,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-06-01,2026-07-19,48,Completed,Returning client,4000,no
+HB-26-195,Personal Injury,PR,Priya Raman,Active,2026-06-03,,,Still open,Professional referral,38800,no
+HB-26-196,Business Law,MH,Melissa Halloway,In Litigation,2026-06-04,,,Still open,Returning client,109200,yes
+HB-26-197,Estate Planning,DB,Daniel Brisk,Closed,2026-06-04,2026-07-28,54,Completed,Client referral,3600,no
+HB-26-198,Personal Injury,KL,Kevin Liu,Active,2026-06-05,,,Still open,Professional referral,11600,no
+HB-26-199,Personal Injury,PR,Priya Raman,In Litigation,2026-06-05,,,Still open,Online search,15600,yes
+HB-26-200,Employment Counsel,PR,Priya Raman,In Litigation,2026-06-08,,,Still open,Online search,123200,yes
+HB-26-201,Estate Planning,EV,Elena Vásquez,Closed,2026-06-09,2026-09-11,94,Completed,Online search,4500,no
+HB-26-202,Estate Planning,EV,Elena Vásquez,Closed,2026-06-09,2026-07-08,29,Completed,Client referral,2800,no
+HB-26-203,Real Estate,DB,Daniel Brisk,Closed,2026-06-10,2026-07-11,31,Completed,Client referral,3800,no
+HB-26-204,Personal Injury,SO,Samuel Oyelaran,Active,2026-06-10,,,Still open,Professional referral,7600,no
+HB-26-205,Personal Injury,PR,Priya Raman,In Litigation,2026-06-10,,,Still open,Professional referral,57200,yes
+HB-26-206,Personal Injury,PR,Priya Raman,Active,2026-06-10,,,Still open,Online search,25800,no
+HB-26-207,Real Estate,DB,Daniel Brisk,Closed,2026-06-11,2026-07-24,43,Completed,Online search,4000,no
+HB-26-208,Personal Injury,PR,Priya Raman,Active,2026-06-11,,,Still open,Client referral,32000,no
+HB-26-209,Estate Planning,EV,Elena Vásquez,Closed,2026-06-12,2026-08-02,51,Completed,Client referral,2800,no
+HB-26-210,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-06-12,2026-10-01,111,Settled,Client referral,3300,no
+HB-26-211,Personal Injury,PR,Priya Raman,Active,2026-06-15,,,Still open,Client referral,11600,no
+HB-26-212,Estate Planning,EV,Elena Vásquez,Active,2026-06-15,,,Still open,Professional referral,17000,no
+HB-26-213,Employment Counsel,PR,Priya Raman,Closed,2026-06-15,2026-08-06,52,Completed,Online search,5900,no
+HB-26-214,Personal Injury,PR,Priya Raman,Active,2026-06-16,,,Still open,Online search,33400,no
+HB-26-215,Business Law,MH,Melissa Halloway,Closed,2026-06-17,2026-07-16,29,Completed,Client referral,1900,no
+HB-26-216,Personal Injury,PR,Priya Raman,Active,2026-06-18,,,Still open,Online search,16200,no
+HB-26-217,Personal Injury,PR,Priya Raman,In Litigation,2026-06-18,,,Still open,Professional referral,39300,yes
+HB-26-218,Personal Injury,KL,Kevin Liu,Active,2026-06-18,,,Still open,Professional referral,16700,no
+HB-26-219,Business Law,KL,Kevin Liu,In Litigation,2026-06-19,,,Still open,Professional referral,38500,yes
+HB-26-220,Real Estate,DB,Daniel Brisk,In Litigation,2026-06-19,,,Still open,Client referral,63800,yes
+HB-26-221,Real Estate,DB,Daniel Brisk,Closed,2026-06-19,2026-07-30,41,Completed,Professional referral,4600,no
+HB-26-222,Personal Injury,PR,Priya Raman,Active,2026-06-19,,,Still open,Online search,11000,no
+HB-26-223,Personal Injury,PR,Priya Raman,In Litigation,2026-06-22,,,Still open,Online search,88500,yes
+HB-26-224,Estate Planning,EV,Elena Vásquez,Closed,2026-06-22,2026-08-06,45,Completed,Returning client,3600,no
+HB-26-225,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-06-22,2026-09-25,95,Settled,Returning client,8400,no
+HB-26-226,Personal Injury,SO,Samuel Oyelaran,In Litigation,2026-06-23,,,Still open,Online search,33000,yes
+HB-26-227,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-06-23,2026-10-05,104,Settled,Online search,5800,no
+HB-26-228,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-06-23,,,Still open,Client referral,33600,yes
+HB-26-229,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-06-23,,,Still open,Client referral,123600,yes
+HB-26-230,Real Estate,DB,Daniel Brisk,Closed,2026-06-24,2026-08-18,55,Completed,Returning client,3600,no
+HB-26-231,Estate Planning,EV,Elena Vásquez,Closed,2026-06-24,2026-08-03,40,Completed,Client referral,4500,no
+HB-26-232,Negotiation & Mediation,KL,Kevin Liu,Active,2026-06-25,,,Still open,Professional referral,6300,no
+HB-26-233,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-06-25,2026-08-20,56,Completed,Professional referral,6000,no
+HB-26-234,Business Law,MH,Melissa Halloway,In Litigation,2026-06-26,,,Still open,Client referral,7900,yes
+HB-26-235,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-06-26,2026-07-27,31,Dismissed or withdrawn,Client referral,3100,no
+HB-26-236,Employment Counsel,PR,Priya Raman,Closed,2026-06-26,2026-09-17,83,Completed,Returning client,3800,no
+HB-26-237,Real Estate,MH,Melissa Halloway,Closed,2026-06-30,2026-09-11,73,Completed,Returning client,5400,no
+HB-26-238,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-06-30,2026-08-07,38,Settled,Online search,9500,no
+HB-26-239,Business Law,MH,Melissa Halloway,Closed,2026-07-01,2026-09-19,80,Completed,Client referral,7000,no
+HB-26-240,Real Estate,DB,Daniel Brisk,Closed,2026-07-01,2026-09-05,66,Completed,Online search,4100,no
+HB-26-241,Personal Injury,PR,Priya Raman,Active,2026-07-01,,,Still open,Online search,0,no
+HB-26-242,Business Law,MH,Melissa Halloway,Closed,2026-07-06,2026-09-11,67,Completed,Returning client,9700,no
+HB-26-243,Estate Planning,EV,Elena Vásquez,Closed,2026-07-06,2026-08-02,27,Completed,Online search,4500,no
+HB-26-244,Personal Injury,PR,Priya Raman,Active,2026-07-08,,,Still open,Client referral,33400,no
+HB-26-245,Business Law,MH,Melissa Halloway,Active,2026-07-09,,,Still open,Client referral,4200,no
+HB-26-246,Personal Injury,PR,Priya Raman,Active,2026-07-09,,,Still open,Online search,50400,no
+HB-26-247,Employment Counsel,PR,Priya Raman,In Litigation,2026-07-09,,,Still open,Returning client,44100,yes
+HB-26-248,Real Estate,DB,Daniel Brisk,In Litigation,2026-07-10,,,Still open,Professional referral,55700,yes
+HB-26-249,Personal Injury,KL,Kevin Liu,In Litigation,2026-07-10,,,Still open,Client referral,25000,yes
+HB-26-250,Employment Counsel,SO,Samuel Oyelaran,In Litigation,2026-07-10,,,Still open,Client referral,15400,yes
+HB-26-251,Personal Injury,SO,Samuel Oyelaran,Active,2026-07-14,,,Still open,Client referral,0,yes
+HB-26-252,Personal Injury,PR,Priya Raman,Active,2026-07-15,,,Still open,Professional referral,16200,no
+HB-26-253,Personal Injury,KL,Kevin Liu,Active,2026-07-15,,,Still open,Professional referral,11400,no
+HB-26-254,Employment Counsel,SO,Samuel Oyelaran,Active,2026-07-15,,,Still open,Online search,14500,yes
+HB-26-255,Estate Planning,DB,Daniel Brisk,Closed,2026-07-16,2026-08-12,27,Completed,Client referral,3600,no
+HB-26-256,Personal Injury,PR,Priya Raman,Active,2026-07-17,,,Still open,Online search,0,no
+HB-26-257,Personal Injury,SO,Samuel Oyelaran,Active,2026-07-17,,,Still open,Returning client,69600,yes
+HB-26-258,Personal Injury,PR,Priya Raman,Active,2026-07-20,,,Still open,Professional referral,11600,yes
+HB-26-259,Estate Planning,DB,Daniel Brisk,Closed,2026-07-20,2026-08-13,24,Completed,Professional referral,6500,no
+HB-26-260,Estate Planning,EV,Elena Vásquez,Active,2026-07-20,,,Still open,Professional referral,5700,no
+HB-26-261,Real Estate,DB,Daniel Brisk,Closed,2026-07-21,2026-09-03,44,Completed,Professional referral,6800,no
+HB-26-262,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-07-21,2026-10-05,76,Settled,Professional referral,6600,no
+HB-26-263,Business Law,KL,Kevin Liu,Active,2026-07-22,,,Still open,Returning client,6600,no
+HB-26-264,Personal Injury,SO,Samuel Oyelaran,Active,2026-07-22,,,Still open,Online search,27200,no
+HB-26-265,Personal Injury,KL,Kevin Liu,Active,2026-07-22,,,Still open,Online search,73000,yes
+HB-26-266,Real Estate,DB,Daniel Brisk,Closed,2026-07-23,2026-09-03,42,Completed,Professional referral,4000,no
+HB-26-267,Real Estate,DB,Daniel Brisk,Closed,2026-07-23,2026-08-10,18,Completed,Professional referral,3200,no
+HB-26-268,Employment Counsel,SO,Samuel Oyelaran,Closed,2026-07-23,2026-09-10,49,Completed,Professional referral,2900,no
+HB-26-269,Real Estate,DB,Daniel Brisk,Closed,2026-07-24,2026-08-25,32,Completed,Online search,5500,no
+HB-26-270,Estate Planning,EV,Elena Vásquez,Closed,2026-07-28,2026-08-27,30,Completed,Online search,3600,no
+HB-26-271,Real Estate,DB,Daniel Brisk,Closed,2026-07-29,2026-09-12,45,Completed,Client referral,4900,no
+HB-26-272,Negotiation & Mediation,MH,Melissa Halloway,Settled,2026-07-29,2026-08-30,32,Settled,Online search,3400,no
+HB-26-273,Real Estate,MH,Melissa Halloway,Active,2026-07-30,,,Still open,Professional referral,3800,no
+HB-26-274,Employment Counsel,PR,Priya Raman,Active,2026-07-30,,,Still open,Professional referral,32900,yes
+HB-26-275,Estate Planning,EV,Elena Vásquez,Active,2026-08-03,,,Still open,Online search,7800,no
+HB-26-276,Estate Planning,EV,Elena Vásquez,Closed,2026-08-03,2026-08-25,22,Completed,Client referral,4500,no
+HB-26-277,Negotiation & Mediation,MH,Melissa Halloway,Settled,2026-08-03,2026-09-18,46,Settled,Returning client,4900,no
+HB-26-278,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-08-05,2026-09-12,38,Settled,Professional referral,4600,no
+HB-26-279,Personal Injury,KL,Kevin Liu,Active,2026-08-06,,,Still open,Professional referral,3600,yes
+HB-26-280,Personal Injury,SO,Samuel Oyelaran,Active,2026-08-06,,,Still open,Client referral,16700,yes
+HB-26-281,Estate Planning,EV,Elena Vásquez,Active,2026-08-07,,,Still open,Client referral,4100,no
+HB-26-282,Negotiation & Mediation,KL,Kevin Liu,Active,2026-08-07,,,Still open,Client referral,6300,no
+HB-26-283,Negotiation & Mediation,KL,Kevin Liu,Settled,2026-08-07,2026-09-03,27,Settled,Professional referral,6400,no
+HB-26-284,Business Law,MH,Melissa Halloway,Active,2026-08-10,,,Still open,Professional referral,11400,no
+HB-26-285,Personal Injury,PR,Priya Raman,Active,2026-08-12,,,Still open,Online search,6900,no
+HB-26-286,Personal Injury,PR,Priya Raman,Active,2026-08-14,,,Still open,Professional referral,27000,yes
+HB-26-287,Employment Counsel,SO,Samuel Oyelaran,Active,2026-08-14,,,Still open,Online search,7500,no
+HB-26-288,Real Estate,DB,Daniel Brisk,Closed,2026-08-17,2026-10-07,51,Completed,Professional referral,4400,no
+HB-26-289,Personal Injury,PR,Priya Raman,Active,2026-08-17,,,Still open,Professional referral,46600,no
+HB-26-290,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-08-17,2026-09-08,22,Dismissed or withdrawn,Returning client,5000,no
+HB-26-291,Business Law,MH,Melissa Halloway,Active,2026-08-18,,,Still open,Professional referral,27000,yes
+HB-26-292,Business Law,MH,Melissa Halloway,Active,2026-08-18,,,Still open,Client referral,7300,no
+HB-26-293,Personal Injury,PR,Priya Raman,Active,2026-08-20,,,Still open,Online search,0,no
+HB-26-294,Personal Injury,KL,Kevin Liu,Active,2026-08-20,,,Still open,Professional referral,0,no
+HB-26-295,Employment Counsel,PR,Priya Raman,Closed,2026-08-20,2026-09-24,35,Completed,Client referral,5500,no
+HB-26-296,Personal Injury,PR,Priya Raman,Active,2026-08-21,,,Still open,Professional referral,0,no
+HB-26-297,Personal Injury,PR,Priya Raman,Active,2026-08-24,,,Still open,Online search,55900,yes
+HB-26-298,Estate Planning,EV,Elena Vásquez,Active,2026-08-25,,,Still open,Professional referral,3600,no
+HB-26-299,Negotiation & Mediation,MH,Melissa Halloway,Active,2026-08-25,,,Still open,Returning client,7500,no
+HB-26-300,Negotiation & Mediation,KL,Kevin Liu,Closed,2026-08-27,2026-09-27,31,Dismissed or withdrawn,Returning client,2500,no
+HB-26-301,Real Estate,DB,Daniel Brisk,Active,2026-08-31,,,Still open,Online search,4700,yes
+HB-26-302,Personal Injury,PR,Priya Raman,Active,2026-09-02,,,Still open,Client referral,32100,no
+HB-26-303,Estate Planning,EV,Elena Vásquez,Active,2026-09-02,,,Still open,Online search,4500,no
+HB-26-304,Negotiation & Mediation,KL,Kevin Liu,Active,2026-09-02,,,Still open,Professional referral,3300,no
+HB-26-305,Business Law,MH,Melissa Halloway,Active,2026-09-03,,,Still open,Returning client,12400,yes
+HB-26-306,Real Estate,DB,Daniel Brisk,Active,2026-09-03,,,Still open,Professional referral,37500,yes
+HB-26-307,Real Estate,MH,Melissa Halloway,Active,2026-09-03,,,Still open,Client referral,4600,no
+HB-26-308,Negotiation & Mediation,KL,Kevin Liu,Active,2026-09-04,,,Still open,Professional referral,7400,no
+HB-26-309,Employment Counsel,SO,Samuel Oyelaran,Active,2026-09-04,,,Still open,Professional referral,7800,no
+HB-26-310,Real Estate,DB,Daniel Brisk,Active,2026-09-07,,,Still open,Client referral,3600,no
+HB-26-311,Real Estate,MH,Melissa Halloway,Active,2026-09-07,,,Still open,Professional referral,4700,no
+HB-26-312,Personal Injury,KL,Kevin Liu,Active,2026-09-07,,,Still open,Client referral,38200,no
+HB-26-313,Personal Injury,PR,Priya Raman,Active,2026-09-07,,,Still open,Professional referral,8000,no
+HB-26-314,Estate Planning,DB,Daniel Brisk,Active,2026-09-07,,,Still open,Returning client,2800,no
+HB-26-315,Real Estate,DB,Daniel Brisk,Active,2026-09-08,,,Still open,Professional referral,33000,yes
+HB-26-316,Real Estate,MH,Melissa Halloway,Active,2026-09-08,,,Still open,Returning client,8800,yes
+HB-26-317,Real Estate,DB,Daniel Brisk,Active,2026-09-09,,,Still open,Professional referral,28300,yes
+HB-26-318,Estate Planning,EV,Elena Vásquez,Active,2026-09-09,,,Still open,Online search,3600,no
+HB-26-319,Negotiation & Mediation,MH,Melissa Halloway,Active,2026-09-09,,,Still open,Client referral,6200,no
+HB-26-320,Business Law,MH,Melissa Halloway,Active,2026-09-11,,,Still open,Returning client,12500,no
+HB-26-321,Personal Injury,PR,Priya Raman,Active,2026-09-11,,,Still open,Client referral,26100,yes
+HB-26-322,Estate Planning,EV,Elena Vásquez,Closed,2026-09-11,2026-10-03,22,Completed,Professional referral,6500,no
+HB-26-323,Employment Counsel,SO,Samuel Oyelaran,Active,2026-09-11,,,Still open,Client referral,6800,no
+HB-26-324,Personal Injury,PR,Priya Raman,Active,2026-09-14,,,Still open,Client referral,23900,yes
+HB-26-325,Estate Planning,EV,Elena Vásquez,Active,2026-09-14,,,Still open,Client referral,4500,no
+HB-26-326,Negotiation & Mediation,KL,Kevin Liu,Active,2026-09-14,,,Still open,Client referral,8400,no
+HB-26-327,Personal Injury,PR,Priya Raman,Active,2026-09-15,,,Still open,Online search,53000,yes
+HB-26-328,Personal Injury,SO,Samuel Oyelaran,Active,2026-09-15,,,Still open,Returning client,39300,no
+HB-26-329,Personal Injury,PR,Priya Raman,Active,2026-09-15,,,Still open,Professional referral,25800,yes
+HB-26-330,Personal Injury,PR,Priya Raman,Active,2026-09-16,,,Still open,Client referral,6400,yes
+HB-26-331,Personal Injury,KL,Kevin Liu,Active,2026-09-16,,,Still open,Returning client,42300,no
+HB-26-332,Employment Counsel,SO,Samuel Oyelaran,Active,2026-09-17,,,Still open,Professional referral,3800,no
+HB-26-333,Personal Injury,PR,Priya Raman,Active,2026-09-18,,,Still open,Online search,0,yes
+HB-26-334,Personal Injury,KL,Kevin Liu,Active,2026-09-18,,,Still open,Online search,15300,yes
+HB-26-335,Estate Planning,EV,Elena Vásquez,Active,2026-09-18,,,Still open,Online search,4500,no
+HB-26-336,Employment Counsel,SO,Samuel Oyelaran,Active,2026-09-18,,,Still open,Online search,2500,no
+HB-26-337,Negotiation & Mediation,MH,Melissa Halloway,Intake,2026-09-21,,,Still open,Professional referral,1700,no
+HB-26-338,Employment Counsel,SO,Samuel Oyelaran,Intake,2026-09-21,,,Still open,Professional referral,46800,yes
+HB-26-339,Estate Planning,EV,Elena Vásquez,Intake,2026-09-23,,,Still open,Online search,4500,no
+HB-26-340,Business Law,MH,Melissa Halloway,Intake,2026-09-24,,,Still open,Returning client,8300,no
+HB-26-341,Real Estate,DB,Daniel Brisk,Intake,2026-09-24,,,Still open,Professional referral,3700,no
+HB-26-342,Estate Planning,EV,Elena Vásquez,Intake,2026-09-25,,,Still open,Client referral,2800,no
+HB-26-343,Estate Planning,EV,Elena Vásquez,Intake,2026-09-25,,,Still open,Online search,7700,no
+HB-26-344,Estate Planning,EV,Elena Vásquez,Intake,2026-09-25,,,Still open,Client referral,7800,no
+HB-26-345,Negotiation & Mediation,KL,Kevin Liu,Intake,2026-09-25,,,Still open,Client referral,5300,no
+HB-26-346,Employment Counsel,SO,Samuel Oyelaran,Intake,2026-09-25,,,Still open,Client referral,30400,yes
+HB-26-347,Personal Injury,KL,Kevin Liu,Intake,2026-09-28,,,Still open,Online search,14000,no
+HB-26-348,Personal Injury,SO,Samuel Oyelaran,Intake,2026-09-29,,,Still open,Client referral,24600,no
+HB-26-349,Personal Injury,PR,Priya Raman,Intake,2026-09-30,,,Still open,Client referral,122300,yes
+HB-26-350,Negotiation & Mediation,KL,Kevin Liu,Intake,2026-09-30,,,Still open,Professional referral,9200,no
